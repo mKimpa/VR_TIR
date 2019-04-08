@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TIR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{003638A1-7AF2-4BF2-B8B8-197D80FD23EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TIR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TIREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7042E43B-A687-4E6D-9AB2-152D7DA48F6B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TIR">
+      <UniqueIdentifier>{4EECCC77-9194-445C-BAE9-29D69279B1BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TIR\TIR.Build.cs">
+      <Filter>Source\TIR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TIR\TIR.cpp">
+      <Filter>Source\TIR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TIR\TIR.h">
+      <Filter>Source\TIR</Filter>
+    </ClInclude>
+    <Filter Include="Source\TIR\Private">
+      <UniqueIdentifier>{CF61B302-68A7-4613-984E-85A57E620AC6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TIR\Private\HighScoreSave.cpp">
+      <Filter>Source\TIR\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TIR\Public">
+      <UniqueIdentifier>{4C442D05-1DD9-4CEE-992E-FF7C90C53714}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TIR\Public\HighScoreSave.h">
+      <Filter>Source\TIR\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

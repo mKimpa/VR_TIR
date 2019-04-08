@@ -1,0 +1,1480 @@
+﻿Log file open, 04/06/19 19:17:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TIR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.639581
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.371s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.021s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.06-16.17.41:014][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:015][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.06-16.17.41:023][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.06-16.17.41:024][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.06-16.17.41:025][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-16.17.41:025][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.06-16.17.41:042][  0]LogHAL: Display: Platform has ~ 16 GB [17132883968 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.06-16.17.41:042][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.06-16.17.41:042][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.06-16.17.41:042][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.06-16.17.41:043][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.06-16.17.41:044][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.06-16.17.41:044][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.06-16.17.41:044][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-16.17.41:044][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.06-16.17.41:044][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.06-16.17.41:044][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.06-16.17.41:045][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.06-16.17.41:045][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.04.06-16.17.41:046][  0]LogInit: Computer: MARS
+[2019.04.06-16.17.41:046][  0]LogInit: User: mKimp
+[2019.04.06-16.17.41:046][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.06-16.17.41:046][  0]LogInit: High frequency timer resolution =3.330095 MHz
+[2019.04.06-16.17.41:046][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.04.06-16.17.41:046][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.06-16.17.41:046][  0]LogMemory: Process Physical Memory: 103.15 MB used, 103.15 MB peak
+[2019.04.06-16.17.41:046][  0]LogMemory: Process Virtual Memory: 92.66 MB used, 92.66 MB peak
+[2019.04.06-16.17.41:046][  0]LogMemory: Physical Memory: 4795.27 MB used,  11543.93 MB free, 16339.19 MB total
+[2019.04.06-16.17.41:046][  0]LogMemory: Virtual Memory: 4641.99 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.06-16.17.41:301][  0]LogInit: Using OS detected language (ru-RU).
+[2019.04.06-16.17.41:302][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.04.06-16.17.41:305][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.04.06-16.17.41:319][  0]LogStreaming: Display: Took  0.017s to InitEngineTextLocalization.
+[2019.04.06-16.17.41:319][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.06-16.17.41:393][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.06-16.17.41:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.06-16.17.42:668][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-16.17.42:668][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.06-16.17.42:704][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2019.04.06-16.17.42:704][  0]LogD3D11RHI:       8172/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.04.06-16.17.42:709][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.06-16.17.42:709][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.06-16.17.42:709][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.06-16.17.42:719][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.06-16.17.42:719][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.04.06-16.17.42:719][  0]LogWindows: EnumDisplayDevices:
+[2019.04.06-16.17.42:720][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2019.04.06-16.17.42:720][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:721][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:722][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:722][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:723][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:723][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:724][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.04.06-16.17.42:725][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.04.06-16.17.42:725][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2019.04.06-16.17.42:725][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.3.3 (internal:25.20.15027.9004, unified:25.20.15027.9004)
+[2019.04.06-16.17.42:725][  0]LogD3D11RHI:      Driver Date: 3-18-2019
+[2019.04.06-16.17.42:725][  0]LogRHI: Texture pool is 5720 MB (70% of 8172 MB)
+[2019.04.06-16.17.42:823][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.06-16.17.42:845][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.04.06-16.17.43:395][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.06-16.17.43:421][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.06-16.17.43:446][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.06-16.17.43:472][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.06-16.17.43:500][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.06-16.17.43:521][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.06-16.17.43:542][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.06-16.17.43:563][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.06-16.17.43:576][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:673][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-16.17.43:678][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.06-16.17.43:761][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.06-16.17.43:761][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.06-16.17.43:790][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.06-16.17.43:790][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.06-16.17.43:807][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.06-16.17.43:825][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.06-16.17.43:842][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.06-16.17.43:862][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.06-16.17.43:917][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.06-16.17.43:917][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.06-16.17.43:917][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.06-16.17.44:186][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/REP/UE4/VR/TIR/Intermediate/Shaders/WorkingDirectory/5892/).
+[2019.04.06-16.17.44:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mKimp/AppData/Local/Temp/UnrealShaderWorkingDir/B95E895F43AAEA09E3196799BDB4C14A/'.
+[2019.04.06-16.17.44:192][  0]LogXGEController: Cleaning working directory: C:/Users/mKimp/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.06-16.17.44:204][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.04.06-16.17.45:938][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.06-16.17.46:346][  0]LogDerivedDataCache: Loaded boot cache 0.41s 71MB C:/Users/mKimp/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.06-16.17.46:347][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mKimp/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.06-16.17.46:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/REP/UE4/VR/TIR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.06-16.17.46:347][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.06-16.17.46:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/REP/UE4/VR/TIR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.06-16.17.46:347][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.06-16.17.46:369][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.06-16.17.46:377][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.04.06-16.17.46:393][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mKimp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.06-16.17.46:393][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.06-16.17.46:393][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.06-16.17.46:423][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.06-16.17.46:428][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.06-16.17.46:436][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-16.17.47:027][  0]LogAssetRegistry: FAssetRegistry took 0.0359 seconds to start up
+[2019.04.06-16.17.47:508][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-16.17.47:873][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.06-16.17.47:906][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.06-16.17.47:906][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.06-16.17.47:907][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.06-16.17.47:907][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.06-16.17.47:953][  0]LogNetVersion: TIR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3202646210)
+[2019.04.06-16.17.50:349][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 1.459543 seconds
+[2019.04.06-16.17.50:356][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.06-16.17.50:356][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.06-16.17.50:356][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.06-16.17.56:510][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.06-16.17.56:529][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.06-16.17.57:575][  0]SourceControl: Source control is disabled
+[2019.04.06-16.17.57:575][  0]SourceControl: Source control is disabled
+[2019.04.06-16.17.57:589][  0]SourceControl: Source control is disabled
+[2019.04.06-16.17.57:596][  0]SourceControl: Source control is disabled
+[2019.04.06-16.17.58:004][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.06-16.17.58:439][  0]LogOcInput: OculusInput pre-init called
+[2019.04.06-16.18.00:459][  0]LogEngine: Initializing Engine...
+[2019.04.06-16.18.00:461][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-16.18.00:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.04.06-16.18.00:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-16.18.00:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.06-16.18.00:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-16.18.00:830][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.06-16.18.00:882][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.06-16.18.01:014][  0]LogInit: XAudio2 using 'Динамики (Creative SB X-Fi)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-16.18.01:218][  0]LogInit: FAudioDevice initialized.
+[2019.04.06-16.18.01:218][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.06-16.18.01:404][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/mKimp/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.06-16.18.01:413][  0]LogInit: Texture streaming: Enabled
+[2019.04.06-16.18.01:471][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.06-16.18.01:471][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={2327C156-4F71-D9BF-7253-3797756CB0CB}
+[2019.04.06-16.18.01:505][  0]LogInit: Transaction tracking system initialized
+[2019.04.06-16.18.01:600][  0]BlueprintLog: New page: Editor Load
+[2019.04.06-16.18.01:988][  0]LocalizationService: Localization service is disabled
+[2019.04.06-16.18.02:931][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Content/' took 0.02s
+[2019.04.06-16.18.02:931][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.06-16.18.02:931][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.06-16.18.02:931][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.06-16.18.02:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.06-16.18.02:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-16.18.02:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.06-16.18.02:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-16.18.03:181][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.04.06-16.18.03:181][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.04.06-16.18.03:181][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2019.04.06-16.18.04:787][  0]SourceControl: Source control is disabled
+[2019.04.06-16.18.04:789][  0]Cmd: MAP LOAD FILE="D:/REP/UE4/VR/TIR/Content/Levels/TIR.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-16.18.04:999][  0]LightingResults: New page: Lighting Build
+[2019.04.06-16.18.05:009][  0]MapCheck: New page: Map Check
+[2019.04.06-16.18.05:009][  0]LightingResults: New page: Lighting Build
+[2019.04.06-16.18.07:210][  0]LogAIModule: Creating AISystem for world TIR
+[2019.04.06-16.18.07:236][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/UI) is flushing async loading
+[2019.04.06-16.18.07:236][  0]LogStreaming: Display: Flushing async loaders.
+[2019.04.06-16.18.07:491][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Game) is flushing async loading
+[2019.04.06-16.18.08:081][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-16.18.08:114][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-16.18.08:114][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,317ms to complete.
+[2019.04.06-16.18.08:114][  0]LogFileHelpers: Loading map 'TIR' took 3.327
+[2019.04.06-16.18.08:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-16.18.08:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-16.18.08:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-16.18.08:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-16.18.08:331][  0]LogCollectionManager: Loaded 0 collections in 0.004109 seconds
+[2019.04.06-16.18.08:380][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Saved/Collections/' took 0.01s
+[2019.04.06-16.18.08:380][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Content/Developers/mKimp/Collections/' took 0.01s
+[2019.04.06-16.18.08:380][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Content/Collections/' took 0.00s
+[2019.04.06-16.18.08:380][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.06-16.18.08:395][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2719 classes and 661 folders.
+[2019.04.06-16.18.08:413][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.06-16.18.08:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-16.18.08:812][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.06-16.18.08:841][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.04.06-16.18.08:880][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2019.04.06-16.18.09:060][  0]LogSlate: Took 0.003835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.06-16.18.09:068][  0]LogSlate: Took 0.003223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.06-16.18.09:075][  0]LogSlate: Took 0.003039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.06-16.18.09:169][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.04.06-16.18.09:184][  0]LogRenderer: Reallocating scene render targets to support 1992x640 Format 10 NumSamples 1 (Frame:1).
+[2019.04.06-16.18.09:248][  0]LogSlate: Took 0.003288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.06-16.18.09:353][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.06-16.18.09:353][  0]LogLoad: (Engine Initialization) Total time: 33.67 seconds
+[2019.04.06-16.18.09:353][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.06-16.18.09:364][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.06-16.18.09:414][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.06-16.18.09:602][  3]LogAssetRegistry: Asset discovery search completed in 22.5974 seconds
+[2019.04.06-16.18.09:604][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.06-16.18.09:604][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2019.04.06-16.18.10:383][ 88]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.06-16.18.40:702][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.06-16.18.40:833][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Target_BP.Target_BP
+[2019.04.06-16.18.41:418][505]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.04.06-16.18.42:528][505]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Start.Start
+[2019.04.06-16.18.42:971][505]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainUI.MainUI
+[2019.04.06-16.18.43:351][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/3DUI.3DUI
+[2019.04.06-16.18.43:714][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VrGameMode.VrGameMode
+[2019.04.06-16.18.44:090][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/3DStartUI.3DStartUI
+[2019.04.06-16.18.44:468][505]LogSlate: Took 0.003568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.06-16.18.44:573][506]LogSlate: Took 0.003178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.06-16.19.09:405][441]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-16.19.09:405][441]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-16.19.09:405][441]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Closing connection 0)
+[2019.04.06-16.19.09:413][442]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-16.20.53:982][326]LogAssetEditorManager: Opening Asset editor for Class /Script/TIR.HighScoreSave
+[2019.04.06-16.27.20:630][766]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-16.27.20:631][766]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Connection 3 seems to be dead!)
+[2019.04.06-16.27.20:631][766]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Closing connection 3)
+[2019.04.06-16.27.20:631][766]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-16.27.20:631][766]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-16.27.20:631][766]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 4 (Closing connection 4)
+[2019.04.06-16.27.20:631][766]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-16.29.31:924][158]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-16.29.31:924][158]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-16.29.31:924][158]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Closing connection 5)
+[2019.04.06-16.29.31:924][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Connection 8 seems to be dead!)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Closing connection 8)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 3 (  Trying 34.203.172.183...)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 5 (connect to 34.203.172.183 port 443 failed: Timed out)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 6 (  Trying 50.17.106.84...)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 8 (After 19492ms connect time, move on!)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 9 (connect to 50.17.106.84 port 443 failed: Timed out)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 10 (  Trying 34.192.137.161...)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.04.06-16.39.09:394][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 13 (connect to 34.192.137.161 port 443 failed: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 14 (  Trying 18.235.16.110...)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 17 (connect to 18.235.16.110 port 443 failed: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 18 (  Trying 34.196.66.229...)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 20 (After 2430ms connect time, move on!)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 21 (connect to 34.196.66.229 port 443 failed: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 22 (  Trying 52.1.90.14...)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 24 (After 1211ms connect time, move on!)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 25 (connect to 52.1.90.14 port 443 failed: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 26 (  Trying 107.21.2.137...)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 28 (After 601ms connect time, move on!)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 29 (connect to 107.21.2.137 port 443 failed: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 30 (  Trying 100.25.57.141...)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 32 (After 297ms connect time, move on!)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 33 (connect to 100.25.57.141 port 443 failed: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 35 (Closing connection 9)
+[2019.04.06-16.39.09:395][884]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Connection 13 seems to be dead!)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Closing connection 13)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 3 (  Trying 54.236.162.182...)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 5 (connect to 54.236.162.182 port 443 failed: Timed out)
+[2019.04.06-16.50.09:385][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 6 (  Trying 18.233.90.22...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 8 (After 19500ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 9 (connect to 18.233.90.22 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 10 (  Trying 34.235.3.78...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 12 (After 9750ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 13 (connect to 34.235.3.78 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 14 (  Trying 35.169.59.58...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 16 (After 4875ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 17 (connect to 35.169.59.58 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 18 (  Trying 52.54.203.96...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 20 (After 2437ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 21 (connect to 52.54.203.96 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 22 (  Trying 52.87.134.163...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 24 (After 1219ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 25 (connect to 52.87.134.163 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 26 (  Trying 54.210.240.115...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 28 (After 609ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 29 (connect to 54.210.240.115 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 30 (  Trying 100.25.121.66...)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 32 (After 305ms connect time, move on!)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 33 (connect to 100.25.121.66 port 443 failed: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 35 (Closing connection 14)
+[2019.04.06-16.50.09:386][858]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Connection 18 seems to be dead!)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Closing connection 18)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 3 (  Trying 18.233.90.22...)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 5 (connect to 18.233.90.22 port 443 failed: Timed out)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 6 (  Trying 100.25.121.66...)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 8 (After 19492ms connect time, move on!)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 9 (connect to 100.25.121.66 port 443 failed: Timed out)
+[2019.04.06-17.01.09:369][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 10 (  Trying 52.87.134.163...)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 13 (connect to 52.87.134.163 port 443 failed: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 14 (  Trying 34.235.3.78...)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 17 (connect to 34.235.3.78 port 443 failed: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 18 (  Trying 52.54.203.96...)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 20 (After 2430ms connect time, move on!)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 21 (connect to 52.54.203.96 port 443 failed: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 22 (  Trying 35.169.59.58...)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 24 (After 1211ms connect time, move on!)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 25 (connect to 35.169.59.58 port 443 failed: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 26 (  Trying 54.210.240.115...)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 28 (After 601ms connect time, move on!)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 29 (connect to 54.210.240.115 port 443 failed: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 30 (  Trying 54.236.162.182...)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 32 (After 297ms connect time, move on!)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 33 (connect to 54.236.162.182 port 443 failed: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 35 (Closing connection 19)
+[2019.04.06-17.01.09:370][832]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.226.43.72) port 443 (#23))
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-17.12.31:158][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 6 (Closing connection 23)
+[2019.04.06-17.12.31:159][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-17.12.31:159][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-17.12.31:159][872]LogHttp: Warning: 000001A28D7E4400: libcurl info message cache 9 (Closing connection 24)
+[2019.04.06-17.12.31:159][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.22.20:448][629]LogHttp: Warning: 000001A28D7E47C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-17.22.20:448][629]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 0 (Connection 28 seems to be dead!)
+[2019.04.06-17.22.20:448][629]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 1 (Closing connection 28)
+[2019.04.06-17.22.20:448][629]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-17.22.20:448][629]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-17.22.20:448][629]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 4 (Closing connection 29)
+[2019.04.06-17.22.20:782][630]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.24.21:215][990]LogHttp: Warning: 000001A28D7E47C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-17.24.21:215][990]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-17.24.21:215][990]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 1 (Closing connection 30)
+[2019.04.06-17.24.21:215][990]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 1 (Re-using existing connection! (#33) with host datarouter.ol.epicgames.com)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.113.85) port 443 (#33))
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 3 (upload completely sent off: 377 out of 377 bytes)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 6 (Closing connection 33)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 8 (  Trying 52.2.113.85...)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-17.35.30:996][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 10 (connect to 52.2.113.85 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 11 (  Trying 54.174.205.197...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 13 (After 19492ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 14 (connect to 54.174.205.197 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 15 (  Trying 54.224.96.69...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 17 (After 9742ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 18 (connect to 54.224.96.69 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 19 (  Trying 52.22.91.178...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 21 (After 4867ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 22 (connect to 52.22.91.178 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 23 (  Trying 52.54.243.91...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 25 (After 2429ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 26 (connect to 52.54.243.91 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 27 (  Trying 18.214.66.93...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 29 (After 1211ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 30 (connect to 18.214.66.93 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 31 (  Trying 18.210.68.80...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 33 (After 601ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 34 (connect to 18.210.68.80 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 35 (  Trying 54.85.53.73...)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 37 (After 296ms connect time, move on!)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 38 (connect to 54.85.53.73 port 443 failed: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: 000001A28D7E47C0: libcurl info message cache 40 (Closing connection 34)
+[2019.04.06-17.35.30:997][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 0 (Connection 38 seems to be dead!)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 1 (Closing connection 38)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 3 (  Trying 52.3.90.181...)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 5 (connect to 52.3.90.181 port 443 failed: Timed out)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 6 (  Trying 52.45.162.244...)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 8 (After 19492ms connect time, move on!)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 9 (connect to 52.45.162.244 port 443 failed: Timed out)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 10 (  Trying 34.194.131.148...)
+[2019.04.06-17.45.09:289][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 13 (connect to 34.194.131.148 port 443 failed: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 14 (  Trying 107.23.186.239...)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 17 (connect to 107.23.186.239 port 443 failed: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 18 (  Trying 52.2.49.65...)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 20 (After 2430ms connect time, move on!)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 21 (connect to 52.2.49.65 port 443 failed: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 22 (  Trying 35.173.6.69...)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 24 (After 1211ms connect time, move on!)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 25 (connect to 35.173.6.69 port 443 failed: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 26 (  Trying 34.198.245.209...)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 28 (After 602ms connect time, move on!)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 29 (connect to 34.198.245.209 port 443 failed: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 30 (  Trying 54.83.171.2...)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 32 (After 297ms connect time, move on!)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 33 (connect to 54.83.171.2 port 443 failed: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 35 (Closing connection 39)
+[2019.04.06-17.45.09:290][716]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-17.57.30:825][931]LogHttp: Warning: 000001A28E584CC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-17.57.30:825][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-17.57.30:825][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 1 (Re-using existing connection! (#43) with host datarouter.ol.epicgames.com)
+[2019.04.06-17.57.30:825][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.239.90.191) port 443 (#43))
+[2019.04.06-17.57.30:825][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.04.06-17.57.30:825][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 6 (Closing connection 43)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 8 (  Trying 34.239.90.191...)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 10 (connect to 34.239.90.191 port 443 failed: Timed out)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 11 (  Trying 52.203.166.246...)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 13 (After 19500ms connect time, move on!)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 14 (connect to 52.203.166.246 port 443 failed: Timed out)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 15 (  Trying 18.235.61.121...)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 17 (After 9750ms connect time, move on!)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 18 (connect to 18.235.61.121 port 443 failed: Timed out)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 19 (  Trying 34.195.133.189...)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 21 (After 4875ms connect time, move on!)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 22 (connect to 34.195.133.189 port 443 failed: Timed out)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 23 (  Trying 100.24.251.232...)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 25 (After 2437ms connect time, move on!)
+[2019.04.06-17.57.30:826][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 26 (connect to 100.24.251.232 port 443 failed: Timed out)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 27 (  Trying 18.214.253.233...)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 29 (After 1218ms connect time, move on!)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 30 (connect to 18.214.253.233 port 443 failed: Timed out)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 31 (  Trying 52.70.58.29...)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 33 (After 609ms connect time, move on!)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 34 (connect to 52.70.58.29 port 443 failed: Timed out)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 35 (  Trying 52.87.37.168...)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 37 (After 304ms connect time, move on!)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 38 (connect to 52.87.37.168 port 443 failed: Timed out)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-17.57.30:827][931]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 40 (Closing connection 44)
+[2019.04.06-17.57.31:162][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 1 (Re-using existing connection! (#47) with host datarouter.ol.epicgames.com)
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.141.120) port 443 (#47))
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 3 (upload completely sent off: 377 out of 377 bytes)
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 6 (Closing connection 47)
+[2019.04.06-18.07.30:879][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 8 (  Trying 52.86.141.120...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 10 (connect to 52.86.141.120 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 11 (  Trying 52.72.40.152...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 13 (After 19500ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 14 (connect to 52.72.40.152 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 15 (  Trying 52.70.58.29...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 17 (After 9750ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 18 (connect to 52.70.58.29 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 19 (  Trying 52.203.166.246...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 21 (After 4875ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 22 (connect to 52.203.166.246 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 23 (  Trying 18.214.253.233...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 25 (After 2437ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 26 (connect to 18.214.253.233 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 27 (  Trying 34.239.90.191...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 29 (After 1219ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 30 (connect to 34.239.90.191 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 31 (  Trying 100.24.251.232...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 33 (After 609ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 34 (connect to 100.24.251.232 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 35 (  Trying 52.87.37.168...)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 37 (After 304ms connect time, move on!)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 38 (connect to 52.87.37.168 port 443 failed: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-18.07.30:880][725]LogHttp: Warning: 000001A28E584CC0: libcurl info message cache 40 (Closing connection 48)
+[2019.04.06-18.07.31:217][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-18.08.09:358][840]LogHttp: Warning: 000001A28E585D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [serially])
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 2 (  Trying 52.86.141.120...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 4 (connect to 52.86.141.120 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 5 (  Trying 52.72.40.152...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 6 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 7 (After 19492ms connect time, move on!)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 8 (connect to 52.72.40.152 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 9 (  Trying 52.70.58.29...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 10 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 11 (After 9742ms connect time, move on!)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 12 (connect to 52.70.58.29 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 13 (  Trying 52.203.166.246...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 14 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 15 (After 4867ms connect time, move on!)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 16 (connect to 52.203.166.246 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 17 (  Trying 18.214.253.233...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 18 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 19 (After 2430ms connect time, move on!)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 20 (connect to 18.214.253.233 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 21 (  Trying 34.239.90.191...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 22 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 23 (After 1211ms connect time, move on!)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 24 (connect to 34.239.90.191 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 25 (  Trying 100.24.251.232...)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 26 (TCP_NODELAY set)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 27 (After 601ms connect time, move on!)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 28 (connect to 100.24.251.232 port 443 failed: Timed out)
+[2019.04.06-18.08.09:359][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 29 (  Trying 52.87.37.168...)
+[2019.04.06-18.08.09:360][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 30 (TCP_NODELAY set)
+[2019.04.06-18.08.09:360][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 31 (After 297ms connect time, move on!)
+[2019.04.06-18.08.09:360][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 32 (connect to 52.87.37.168 port 443 failed: Timed out)
+[2019.04.06-18.08.09:360][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 33 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-18.08.09:360][840]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 34 (Closing connection 49)
+[2019.04.06-18.08.09:360][840]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 1 (Re-using existing connection! (#52) with host datarouter.ol.epicgames.com)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.156.38) port 443 (#52))
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 6 (Closing connection 52)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.06-18.17.31:294][520]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 9 (Closing connection 53)
+[2019.04.06-18.17.31:295][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-18.21.10:056][174]LogHttp: Warning: 000001A28E585D00: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.04.06-18.21.10:057][174]LogHttp: Warning: 000001A28E585D00 Response Header Server: awselb/2.0
+[2019.04.06-18.21.10:057][174]LogHttp: Warning: 000001A28E585D00 Response Header Date: Sat, 06 Apr 2019 18:21:09 GMT
+[2019.04.06-18.21.10:057][174]LogHttp: Warning: 000001A28E585D00 Response Header Content-Type: text/html
+[2019.04.06-18.21.10:057][174]LogHttp: Warning: 000001A28E585D00 Response Header Content-Length: 138
+[2019.04.06-18.21.10:057][174]LogHttp: Warning: 000001A28E585D00 Response Header Connection: keep-alive
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 0 (Connection 57 seems to be dead!)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 1 (Closing connection 57)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 3 (  Trying 34.225.123.245...)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 5 (connect to 34.225.123.245 port 443 failed: Timed out)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 6 (  Trying 52.87.139.142...)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 8 (After 19500ms connect time, move on!)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 9 (connect to 52.87.139.142 port 443 failed: Timed out)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 10 (  Trying 34.235.212.28...)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 12 (After 9750ms connect time, move on!)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 13 (connect to 34.235.212.28 port 443 failed: Timed out)
+[2019.04.06-18.28.09:188][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 14 (  Trying 54.88.130.39...)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 16 (After 4875ms connect time, move on!)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 17 (connect to 54.88.130.39 port 443 failed: Timed out)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 18 (  Trying 54.81.81.192...)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 20 (After 2437ms connect time, move on!)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 21 (connect to 54.81.81.192 port 443 failed: Timed out)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 22 (  Trying 54.236.214.14...)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 24 (After 1219ms connect time, move on!)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 25 (connect to 54.236.214.14 port 443 failed: Timed out)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 26 (  Trying 54.165.171.83...)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 28 (After 609ms connect time, move on!)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 29 (connect to 54.165.171.83 port 443 failed: Timed out)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 30 (  Trying 34.204.212.142...)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 32 (After 305ms connect time, move on!)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 33 (connect to 34.204.212.142 port 443 failed: Timed out)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-18.28.09:189][427]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 35 (Closing connection 58)
+[2019.04.06-18.28.09:523][428]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 0 (Connection 61 seems to be dead!)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 1 (Closing connection 61)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 3 (  Trying 52.4.127.66...)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 5 (connect to 52.4.127.66 port 443 failed: Timed out)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 6 (  Trying 34.194.135.124...)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 8 (After 19492ms connect time, move on!)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 9 (connect to 34.194.135.124 port 443 failed: Timed out)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 10 (  Trying 18.235.124.39...)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 13 (connect to 18.235.124.39 port 443 failed: Timed out)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 14 (  Trying 52.6.198.225...)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-18.39.09:236][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 17 (connect to 52.6.198.225 port 443 failed: Timed out)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 18 (  Trying 52.22.81.26...)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 20 (After 2429ms connect time, move on!)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 21 (connect to 52.22.81.26 port 443 failed: Timed out)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 22 (  Trying 34.230.183.16...)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 24 (After 1211ms connect time, move on!)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 25 (connect to 34.230.183.16 port 443 failed: Timed out)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 26 (  Trying 52.54.45.143...)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 28 (After 601ms connect time, move on!)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 29 (connect to 52.54.45.143 port 443 failed: Timed out)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 30 (  Trying 52.200.123.101...)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 32 (After 297ms connect time, move on!)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 33 (connect to 52.200.123.101 port 443 failed: Timed out)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 35 (Closing connection 62)
+[2019.04.06-18.39.09:237][400]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-18.49.09:163][193]LogHttp: Warning: 000001A28E585D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-18.49.09:163][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 0 (Connection 65 seems to be dead!)
+[2019.04.06-18.49.09:163][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 1 (Closing connection 65)
+[2019.04.06-18.49.09:163][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-18.49.09:163][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 3 (  Trying 52.87.37.168...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 5 (connect to 52.87.37.168 port 443 failed: Timed out)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 6 (  Trying 52.203.166.246...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 8 (After 19500ms connect time, move on!)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 9 (connect to 52.203.166.246 port 443 failed: Timed out)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 10 (  Trying 52.72.40.152...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 12 (After 9750ms connect time, move on!)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 13 (connect to 52.72.40.152 port 443 failed: Timed out)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 14 (  Trying 52.70.58.29...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 16 (After 4875ms connect time, move on!)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 17 (connect to 52.70.58.29 port 443 failed: Timed out)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 18 (  Trying 34.239.90.191...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 20 (After 2437ms connect time, move on!)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 21 (connect to 34.239.90.191 port 443 failed: Timed out)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 22 (  Trying 52.86.141.120...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 24 (After 1218ms connect time, move on!)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 25 (connect to 52.86.141.120 port 443 failed: Timed out)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 26 (  Trying 34.195.133.189...)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 28 (After 609ms connect time, move on!)
+[2019.04.06-18.49.09:164][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 29 (connect to 34.195.133.189 port 443 failed: Timed out)
+[2019.04.06-18.49.09:165][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 30 (  Trying 18.235.61.121...)
+[2019.04.06-18.49.09:165][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-18.49.09:165][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 32 (After 304ms connect time, move on!)
+[2019.04.06-18.49.09:165][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 33 (connect to 18.235.61.121 port 443 failed: Timed out)
+[2019.04.06-18.49.09:165][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-18.49.09:165][193]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 35 (Closing connection 66)
+[2019.04.06-18.49.09:499][194]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 1 (Re-using existing connection! (#70) with host datarouter.ol.epicgames.com)
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.245.209) port 443 (#70))
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-19.01.30:945][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 6 (Closing connection 70)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 8 (  Trying 34.198.245.209...)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 10 (connect to 34.198.245.209 port 443 failed: Timed out)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 11 (  Trying 52.3.90.181...)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 13 (After 19492ms connect time, move on!)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 14 (connect to 52.3.90.181 port 443 failed: Timed out)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 15 (  Trying 54.236.245.167...)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 17 (After 9742ms connect time, move on!)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 18 (connect to 54.236.245.167 port 443 failed: Timed out)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 19 (  Trying 52.2.49.65...)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 21 (After 4867ms connect time, move on!)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 22 (connect to 52.2.49.65 port 443 failed: Timed out)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 23 (  Trying 34.194.131.148...)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 25 (After 2429ms connect time, move on!)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 26 (connect to 34.194.131.148 port 443 failed: Timed out)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 27 (  Trying 35.173.6.69...)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 29 (After 1211ms connect time, move on!)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 30 (connect to 35.173.6.69 port 443 failed: Timed out)
+[2019.04.06-19.01.30:946][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 31 (  Trying 54.164.240.160...)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 33 (After 601ms connect time, move on!)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 34 (connect to 54.164.240.160 port 443 failed: Timed out)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 35 (  Trying 52.45.162.244...)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 37 (After 297ms connect time, move on!)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 38 (connect to 52.45.162.244 port 443 failed: Timed out)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: 000001A28E585D00: libcurl info message cache 40 (Closing connection 71)
+[2019.04.06-19.01.30:947][410]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 1 (Re-using existing connection! (#75) with host datarouter.ol.epicgames.com)
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.205.197) port 443 (#75))
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 6 (Closing connection 75)
+[2019.04.06-19.11.30:840][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 8 (  Trying 54.174.205.197...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 10 (connect to 54.174.205.197 port 443 failed: Timed out)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 11 (  Trying 52.54.243.91...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 13 (After 19492ms connect time, move on!)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 14 (connect to 52.54.243.91 port 443 failed: Timed out)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 15 (  Trying 18.214.66.93...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 17 (After 9742ms connect time, move on!)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 18 (connect to 18.214.66.93 port 443 failed: Timed out)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 19 (  Trying 52.22.91.178...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 21 (After 4867ms connect time, move on!)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 22 (connect to 52.22.91.178 port 443 failed: Timed out)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 23 (  Trying 34.232.150.207...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 25 (After 2429ms connect time, move on!)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 26 (connect to 34.232.150.207 port 443 failed: Timed out)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 27 (  Trying 54.85.53.73...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 29 (After 1211ms connect time, move on!)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 30 (connect to 54.85.53.73 port 443 failed: Timed out)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 31 (  Trying 18.210.68.80...)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-19.11.30:841][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 33 (After 601ms connect time, move on!)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 34 (connect to 18.210.68.80 port 443 failed: Timed out)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 35 (  Trying 54.224.96.69...)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 37 (After 297ms connect time, move on!)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 38 (connect to 54.224.96.69 port 443 failed: Timed out)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.11.30:842][203]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 40 (Closing connection 76)
+[2019.04.06-19.11.31:178][204]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.22.30:926][175]LogHttp: Warning: 000001A28EC8BB00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.22.30:926][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-19.22.30:926][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 1 (Re-using existing connection! (#80) with host datarouter.ol.epicgames.com)
+[2019.04.06-19.22.30:926][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.87.31.36) port 443 (#80))
+[2019.04.06-19.22.30:926][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 6 (Closing connection 80)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 8 (  Trying 54.87.31.36...)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 10 (connect to 54.87.31.36 port 443 failed: Timed out)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 11 (  Trying 52.6.79.2...)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 13 (After 19500ms connect time, move on!)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 14 (connect to 52.6.79.2 port 443 failed: Timed out)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 15 (  Trying 52.1.48.131...)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 17 (After 9750ms connect time, move on!)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 18 (connect to 52.1.48.131 port 443 failed: Timed out)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 19 (  Trying 52.7.217.165...)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 21 (After 4875ms connect time, move on!)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 22 (connect to 52.7.217.165 port 443 failed: Timed out)
+[2019.04.06-19.22.30:927][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 23 (  Trying 54.164.85.241...)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 25 (After 2437ms connect time, move on!)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 26 (connect to 54.164.85.241 port 443 failed: Timed out)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 27 (  Trying 34.235.38.192...)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 29 (After 1219ms connect time, move on!)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 30 (connect to 34.235.38.192 port 443 failed: Timed out)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 31 (  Trying 52.86.156.38...)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 33 (After 609ms connect time, move on!)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 34 (connect to 52.86.156.38 port 443 failed: Timed out)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 35 (  Trying 54.88.250.173...)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 37 (After 305ms connect time, move on!)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 38 (connect to 54.88.250.173 port 443 failed: Timed out)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.22.30:928][175]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 40 (Closing connection 81)
+[2019.04.06-19.22.31:264][176]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 1 (Re-using existing connection! (#85) with host datarouter.ol.epicgames.com)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.123.101) port 443 (#85))
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 3 (upload completely sent off: 377 out of 377 bytes)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 6 (Closing connection 85)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 8 (  Trying 52.200.123.101...)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 10 (connect to 52.200.123.101 port 443 failed: Timed out)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 11 (  Trying 52.87.18.159...)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 13 (After 19492ms connect time, move on!)
+[2019.04.06-19.34.30:680][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 14 (connect to 52.87.18.159 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 15 (  Trying 18.235.124.39...)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 17 (After 9742ms connect time, move on!)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 18 (connect to 18.235.124.39 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 19 (  Trying 34.230.183.16...)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 21 (After 4867ms connect time, move on!)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 22 (connect to 34.230.183.16 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 23 (  Trying 54.208.92.41...)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 25 (After 2429ms connect time, move on!)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 26 (connect to 54.208.92.41 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 27 (  Trying 52.4.127.66...)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 29 (After 1211ms connect time, move on!)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 30 (connect to 52.4.127.66 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 31 (  Trying 34.194.135.124...)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 33 (After 601ms connect time, move on!)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 34 (connect to 34.194.135.124 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 35 (  Trying 52.22.81.26...)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 37 (After 297ms connect time, move on!)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 38 (connect to 52.22.81.26 port 443 failed: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.34.30:681][326]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 40 (Closing connection 86)
+[2019.04.06-19.34.30:682][326]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.44.30:947][120]LogHttp: Warning: 000001A28EC8A5C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 1 (Re-using existing connection! (#90) with host datarouter.ol.epicgames.com)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.181.125) port 443 (#90))
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 3 (upload completely sent off: 377 out of 377 bytes)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 6 (Closing connection 90)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 8 (  Trying 54.83.181.125...)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 10 (connect to 54.83.181.125 port 443 failed: Timed out)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 11 (  Trying 3.94.140.213...)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 13 (After 19492ms connect time, move on!)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 14 (connect to 3.94.140.213 port 443 failed: Timed out)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 15 (  Trying 54.88.198.7...)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 17 (After 9742ms connect time, move on!)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 18 (connect to 54.88.198.7 port 443 failed: Timed out)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 19 (  Trying 23.20.51.18...)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 21 (After 4867ms connect time, move on!)
+[2019.04.06-19.44.30:948][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 22 (connect to 23.20.51.18 port 443 failed: Timed out)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 23 (  Trying 52.71.186.206...)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 25 (After 2429ms connect time, move on!)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 26 (connect to 52.71.186.206 port 443 failed: Timed out)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 27 (  Trying 34.236.85.100...)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 29 (After 1210ms connect time, move on!)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 30 (connect to 34.236.85.100 port 443 failed: Timed out)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 31 (  Trying 54.209.204.64...)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 33 (After 601ms connect time, move on!)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 34 (connect to 54.209.204.64 port 443 failed: Timed out)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 35 (  Trying 34.232.136.228...)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 37 (After 296ms connect time, move on!)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 38 (connect to 34.232.136.228 port 443 failed: Timed out)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: 000001A28EC8A5C0: libcurl info message cache 40 (Closing connection 91)
+[2019.04.06-19.44.30:949][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [serially])
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 2 (  Trying 54.83.181.125...)
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 4 (connect to 54.83.181.125 port 443 failed: Timed out)
+[2019.04.06-19.45.09:432][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 5 (  Trying 3.94.140.213...)
+[2019.04.06-19.45.09:433][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 6 (TCP_NODELAY set)
+[2019.04.06-19.45.09:433][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 7 (After 19500ms connect time, move on!)
+[2019.04.06-19.45.09:433][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 8 (connect to 3.94.140.213 port 443 failed: Timed out)
+[2019.04.06-19.45.09:433][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 9 (  Trying 54.88.198.7...)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 10 (TCP_NODELAY set)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 11 (After 9750ms connect time, move on!)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 12 (connect to 54.88.198.7 port 443 failed: Timed out)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 13 (  Trying 23.20.51.18...)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 14 (TCP_NODELAY set)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 15 (After 4875ms connect time, move on!)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 16 (connect to 23.20.51.18 port 443 failed: Timed out)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 17 (  Trying 52.71.186.206...)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 18 (TCP_NODELAY set)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 19 (After 2437ms connect time, move on!)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 20 (connect to 52.71.186.206 port 443 failed: Timed out)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 21 (  Trying 34.236.85.100...)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 22 (TCP_NODELAY set)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 23 (After 1219ms connect time, move on!)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 24 (connect to 34.236.85.100 port 443 failed: Timed out)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 25 (  Trying 54.209.204.64...)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 26 (TCP_NODELAY set)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 27 (After 609ms connect time, move on!)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 28 (connect to 54.209.204.64 port 443 failed: Timed out)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 29 (  Trying 34.232.136.228...)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 30 (TCP_NODELAY set)
+[2019.04.06-19.45.09:434][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 31 (After 305ms connect time, move on!)
+[2019.04.06-19.45.09:435][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 32 (connect to 34.232.136.228 port 443 failed: Timed out)
+[2019.04.06-19.45.09:435][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 33 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.45.09:435][235]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 34 (Closing connection 92)
+[2019.04.06-19.45.09:770][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-19.55.30:944][ 92]LogHttp: Warning: 000001A28EC8BB00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-19.55.30:944][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a24290bf10 [can pipeline])
+[2019.04.06-19.55.30:944][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 1 (Re-using existing connection! (#95) with host datarouter.ol.epicgames.com)
+[2019.04.06-19.55.30:944][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.79.2) port 443 (#95))
+[2019.04.06-19.55.30:944][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 3 (upload completely sent off: 741 out of 741 bytes)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 6 (Closing connection 95)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 8 (  Trying 52.6.79.2...)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 9 (TCP_NODELAY set)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 10 (connect to 52.6.79.2 port 443 failed: Timed out)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 11 (  Trying 54.88.250.173...)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 12 (TCP_NODELAY set)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 13 (After 19492ms connect time, move on!)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 14 (connect to 54.88.250.173 port 443 failed: Timed out)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 15 (  Trying 52.203.204.201...)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 16 (TCP_NODELAY set)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 17 (After 9742ms connect time, move on!)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 18 (connect to 52.203.204.201 port 443 failed: Timed out)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 19 (  Trying 34.235.38.192...)
+[2019.04.06-19.55.30:945][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 20 (TCP_NODELAY set)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 21 (After 4867ms connect time, move on!)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 22 (connect to 34.235.38.192 port 443 failed: Timed out)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 23 (  Trying 54.164.85.241...)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 24 (TCP_NODELAY set)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 25 (After 2429ms connect time, move on!)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 26 (connect to 54.164.85.241 port 443 failed: Timed out)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 27 (  Trying 52.21.4.215...)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 28 (TCP_NODELAY set)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 29 (After 1211ms connect time, move on!)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 30 (connect to 52.21.4.215 port 443 failed: Timed out)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 31 (  Trying 54.87.31.36...)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 32 (TCP_NODELAY set)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 33 (After 601ms connect time, move on!)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 34 (connect to 54.87.31.36 port 443 failed: Timed out)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 35 (  Trying 52.1.48.131...)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 36 (TCP_NODELAY set)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 37 (After 296ms connect time, move on!)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 38 (connect to 52.1.48.131 port 443 failed: Timed out)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 39 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 40 (Closing connection 96)
+[2019.04.06-19.55.30:946][ 92]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-20.05.09:226][820]LogHttp: Warning: 000001A28EC8BB00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-20.05.09:226][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 0 (Connection 99 seems to be dead!)
+[2019.04.06-20.05.09:226][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 1 (Closing connection 99)
+[2019.04.06-20.05.09:226][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-20.05.09:226][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 3 (  Trying 52.87.37.168...)
+[2019.04.06-20.05.09:226][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 5 (connect to 52.87.37.168 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 6 (  Trying 52.72.40.152...)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 8 (After 19492ms connect time, move on!)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 9 (connect to 52.72.40.152 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 10 (  Trying 18.235.61.121...)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 13 (connect to 18.235.61.121 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 14 (  Trying 100.24.251.232...)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 17 (connect to 100.24.251.232 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 18 (  Trying 52.70.58.29...)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 20 (After 2430ms connect time, move on!)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 21 (connect to 52.70.58.29 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 22 (  Trying 52.203.166.246...)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 24 (After 1211ms connect time, move on!)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 25 (connect to 52.203.166.246 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 26 (  Trying 52.86.141.120...)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 28 (After 601ms connect time, move on!)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 29 (connect to 52.86.141.120 port 443 failed: Timed out)
+[2019.04.06-20.05.09:227][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 30 (  Trying 18.214.253.233...)
+[2019.04.06-20.05.09:228][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-20.05.09:228][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 32 (After 297ms connect time, move on!)
+[2019.04.06-20.05.09:228][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 33 (connect to 18.214.253.233 port 443 failed: Timed out)
+[2019.04.06-20.05.09:228][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-20.05.09:228][820]LogHttp: Warning: 000001A28EC8BB00: libcurl info message cache 35 (Closing connection 100)
+[2019.04.06-20.05.09:228][820]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-20.14.41:213][ 81]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 0 (Connection 103 seems to be dead!)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 1 (Closing connection 103)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 3 (  Trying 34.195.133.189...)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 5 (connect to 34.195.133.189 port 443 failed: Timed out)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 6 (  Trying 18.214.253.233...)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 8 (After 19492ms connect time, move on!)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 9 (connect to 18.214.253.233 port 443 failed: Timed out)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 10 (  Trying 18.235.61.121...)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 11 (TCP_NODELAY set)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 12 (After 9742ms connect time, move on!)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 13 (connect to 18.235.61.121 port 443 failed: Timed out)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 14 (  Trying 100.24.251.232...)
+[2019.04.06-20.16.09:285][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 15 (TCP_NODELAY set)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 16 (After 4867ms connect time, move on!)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 17 (connect to 100.24.251.232 port 443 failed: Timed out)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 18 (  Trying 52.70.58.29...)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 19 (TCP_NODELAY set)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 20 (After 2430ms connect time, move on!)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 21 (connect to 52.70.58.29 port 443 failed: Timed out)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 22 (  Trying 52.72.40.152...)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 23 (TCP_NODELAY set)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 24 (After 1211ms connect time, move on!)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 25 (connect to 52.72.40.152 port 443 failed: Timed out)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 26 (  Trying 52.203.166.246...)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 27 (TCP_NODELAY set)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 28 (After 602ms connect time, move on!)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 29 (connect to 52.203.166.246 port 443 failed: Timed out)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 30 (  Trying 34.239.90.191...)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 31 (TCP_NODELAY set)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 32 (After 297ms connect time, move on!)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 33 (connect to 34.239.90.191 port 443 failed: Timed out)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.04.06-20.16.09:286][989]LogHttp: Warning: 000001A28EAE7380: libcurl info message cache 35 (Closing connection 104)
+[2019.04.06-20.16.09:624][990]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE79CD99A-4F14-938F-8BE1-DB8EB76A3E17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.06-20.23.50:639][382]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/REP/UE4/VR/TIR/Resource/Sound/stunstick_fleshhit2.wav)
+[2019.04.06-20.23.52:695][591]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave stunstick_fleshhit2...
+[2019.04.06-20.23.52:720][591]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32768 while cooking SoundWave /Game/Sound/stunstick_fleshhit2.stunstick_fleshhit2.
+[2019.04.06-20.23.57:273][ 24]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TIR' took 0.487
+[2019.04.06-20.23.57:278][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/stunstick_fleshhit2] ([1] browsable assets)...
+[2019.04.06-20.23.57:292][ 24]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/stunstick_fleshhit2.stunstick_fleshhit2]
+[2019.04.06-20.23.57:292][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/stunstick_fleshhit2]
+[2019.04.06-20.23.57:292][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/stunstick_fleshhit2" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Sound/stunstick_fleshhit2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.06-20.23.57:342][ 24]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/stunstick_fleshhit2_Auto1E8ECB1F243A1D043BB3EEC9DC306F87A.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Sound/stunstick_fleshhit2_Auto1.uasset'
+[2019.04.06-20.23.57:368][ 24]LogFileHelpers: Auto-saving content packages took 0.092
+[2019.04.06-20.24.55:835][665]LogSlate: Window 'Replace References?' being destroyed
+[2019.04.06-20.24.55:841][665]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.06-20.24.56:315][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-20.24.56:448][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-20.24.56:593][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.06-20.24.58:846][665]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.06-20.24.58:847][665]LogWindows: Windows GetLastError: Операция успешно завершена. (0)

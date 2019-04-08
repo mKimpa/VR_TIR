@@ -1,0 +1,1616 @@
+﻿Log file open, 03/29/19 19:55:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TIR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.751994
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.387s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.033s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.29-16.55.32:835][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.29-16.55.32:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:836][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:843][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.29-16.55.32:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.29-16.55.32:844][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.29-16.55.32:845][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.29-16.55.32:845][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.29-16.55.32:942][  0]LogHAL: Display: Platform has ~ 16 GB [17132883968 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.29-16.55.32:942][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.29-16.55.32:942][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.29-16.55.32:942][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:942][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.29-16.55.32:942][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.29-16.55.32:942][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:942][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.29-16.55.32:943][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Scalability.ini]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.29-16.55.32:944][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.29-16.55.32:944][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/REP/UE4/VR/TIR/Saved/Config/Windows/Engine.ini]
+[2019.03.29-16.55.32:945][  0]LogInit: Computer: MARS
+[2019.03.29-16.55.32:945][  0]LogInit: User: mKimp
+[2019.03.29-16.55.32:945][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.29-16.55.32:945][  0]LogInit: High frequency timer resolution =3.330094 MHz
+[2019.03.29-16.55.32:946][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.03.29-16.55.32:946][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.29-16.55.32:946][  0]LogMemory: Process Physical Memory: 102.93 MB used, 102.93 MB peak
+[2019.03.29-16.55.32:946][  0]LogMemory: Process Virtual Memory: 92.67 MB used, 92.67 MB peak
+[2019.03.29-16.55.32:946][  0]LogMemory: Physical Memory: 5040.92 MB used,  11298.27 MB free, 16339.19 MB total
+[2019.03.29-16.55.32:946][  0]LogMemory: Virtual Memory: 4641.99 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.03.29-16.55.33:141][  0]LogInit: Using OS detected language (ru-RU).
+[2019.03.29-16.55.33:141][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.03.29-16.55.33:143][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.03.29-16.55.33:153][  0]LogStreaming: Display: Took  0.012s to InitEngineTextLocalization.
+[2019.03.29-16.55.33:154][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.29-16.55.33:223][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.29-16.55.33:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.29-16.55.33:970][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.29-16.55.33:970][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.29-16.55.34:004][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2019.03.29-16.55.34:004][  0]LogD3D11RHI:       8172/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.03.29-16.55.34:008][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.29-16.55.34:008][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.29-16.55.34:008][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.29-16.55.34:020][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.29-16.55.34:020][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.03.29-16.55.34:020][  0]LogWindows: EnumDisplayDevices:
+[2019.03.29-16.55.34:020][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2019.03.29-16.55.34:021][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:022][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:022][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:023][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:024][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:024][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:025][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.03.29-16.55.34:026][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.03.29-16.55.34:026][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2019.03.29-16.55.34:026][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.3.1 (internal:25.20.15027.1003, unified:25.20.15027.1003)
+[2019.03.29-16.55.34:026][  0]LogD3D11RHI:      Driver Date: 3-2-2019
+[2019.03.29-16.55.34:026][  0]LogRHI: Texture pool is 5720 MB (70% of 8172 MB)
+[2019.03.29-16.55.34:115][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.29-16.55.34:138][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.03.29-16.55.34:886][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.29-16.55.34:909][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.29-16.55.34:931][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.29-16.55.34:953][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.29-16.55.34:978][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.29-16.55.35:001][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.29-16.55.35:023][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.29-16.55.35:046][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.29-16.55.35:060][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.29-16.55.35:175][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.29-16.55.35:182][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.29-16.55.35:262][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.29-16.55.35:262][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.29-16.55.35:294][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.29-16.55.35:294][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.29-16.55.35:313][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.29-16.55.35:332][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.29-16.55.35:351][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.29-16.55.35:372][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.29-16.55.35:434][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.29-16.55.35:434][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.29-16.55.35:434][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.29-16.55.35:626][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/REP/UE4/VR/TIR/Intermediate/Shaders/WorkingDirectory/12224/).
+[2019.03.29-16.55.35:626][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mKimp/AppData/Local/Temp/UnrealShaderWorkingDir/3CE935884533F4E9F89CF5AF6C77F564/'.
+[2019.03.29-16.55.35:632][  0]LogXGEController: Cleaning working directory: C:/Users/mKimp/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.29-16.55.35:644][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.03.29-16.55.36:384][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.29-16.55.36:745][  0]LogDerivedDataCache: Loaded boot cache 0.36s 71MB C:/Users/mKimp/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.29-16.55.36:745][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mKimp/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.29-16.55.36:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/REP/UE4/VR/TIR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.29-16.55.36:745][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.29-16.55.36:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/REP/UE4/VR/TIR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.29-16.55.36:745][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.29-16.55.36:767][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.29-16.55.36:774][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.03.29-16.55.36:789][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mKimp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.29-16.55.36:789][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.29-16.55.36:789][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.29-16.55.36:819][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.29-16.55.36:825][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.29-16.55.36:831][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.29-16.55.37:090][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.03.29-16.55.37:596][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.29-16.55.37:902][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.29-16.55.37:927][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.29-16.55.37:927][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.29-16.55.37:928][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.29-16.55.37:928][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.29-16.55.37:972][  0]LogNetVersion: TIR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3202646210)
+[2019.03.29-16.55.39:596][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.730921 seconds
+[2019.03.29-16.55.39:604][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.29-16.55.39:604][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.29-16.55.39:604][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.29-16.55.42:542][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.29-16.55.42:561][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.29-16.55.43:781][  0]SourceControl: Source control is disabled
+[2019.03.29-16.55.43:782][  0]SourceControl: Source control is disabled
+[2019.03.29-16.55.43:796][  0]SourceControl: Source control is disabled
+[2019.03.29-16.55.43:802][  0]SourceControl: Source control is disabled
+[2019.03.29-16.55.44:181][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.29-16.55.44:633][  0]LogOcInput: OculusInput pre-init called
+[2019.03.29-16.55.46:568][  0]LogEngine: Initializing Engine...
+[2019.03.29-16.55.46:570][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.29-16.55.46:573][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.29-16.55.46:573][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.29-16.55.46:573][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.29-16.55.46:573][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.29-16.55.46:934][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.29-16.55.46:986][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.29-16.55.47:189][  0]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-16.55.47:291][  0]LogInit: FAudioDevice initialized.
+[2019.03.29-16.55.47:291][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.29-16.55.47:516][  0]LogDerivedDataCache: Saved boot cache 0.22s 71MB C:/Users/mKimp/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.29-16.55.47:536][  0]LogInit: Texture streaming: Enabled
+[2019.03.29-16.55.47:594][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.29-16.55.47:625][  0]LogInit: Transaction tracking system initialized
+[2019.03.29-16.55.47:907][  0]BlueprintLog: New page: Editor Load
+[2019.03.29-16.55.48:178][  0]LocalizationService: Localization service is disabled
+[2019.03.29-16.55.49:232][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Content/' took 0.01s
+[2019.03.29-16.55.49:232][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.29-16.55.49:232][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.29-16.55.49:233][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.29-16.55.49:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.29-16.55.49:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.29-16.55.49:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.29-16.55.49:233][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.29-16.55.49:444][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.03.29-16.55.49:444][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.03.29-16.55.49:444][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2019.03.29-16.55.51:028][  0]SourceControl: Source control is disabled
+[2019.03.29-16.55.51:029][  0]Cmd: MAP LOAD FILE="D:/REP/UE4/VR/TIR/Content/Levels/TIR.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.29-16.55.51:030][  0]LightingResults: New page: Lighting Build
+[2019.03.29-16.55.51:042][  0]MapCheck: New page: Map Check
+[2019.03.29-16.55.51:042][  0]LightingResults: New page: Lighting Build
+[2019.03.29-16.55.53:160][  0]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-16.55.53:200][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.29-16.55.53:229][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.29-16.55.53:229][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2019.03.29-16.55.53:229][  0]LogFileHelpers: Loading map 'TIR' took 2.200
+[2019.03.29-16.55.53:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.55.53:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.55.53:411][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.55.53:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.55.53:443][  0]LogCollectionManager: Loaded 0 collections in 0.003959 seconds
+[2019.03.29-16.55.53:490][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Saved/Collections/' took 0.01s
+[2019.03.29-16.55.53:490][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Content/Developers/mKimp/Collections/' took 0.01s
+[2019.03.29-16.55.53:490][  0]LogFileCache: Scanning file cache for directory 'D:/REP/UE4/VR/TIR/Content/Collections/' took 0.00s
+[2019.03.29-16.55.53:490][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.29-16.55.53:504][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2718 classes and 658 folders.
+[2019.03.29-16.55.53:524][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.29-16.55.53:533][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:542][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.29-16.55.53:745][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.29-16.55.53:764][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.29-16.55.53:937][  0]LogSlate: Took 0.001683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.29-16.55.53:943][  0]LogSlate: Took 0.001728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.29-16.55.53:949][  0]LogSlate: Took 0.001863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.29-16.55.54:104][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.03.29-16.55.54:177][  0]LogRenderer: Reallocating scene render targets to support 1988x640 Format 10 NumSamples 1 (Frame:1).
+[2019.03.29-16.55.54:266][  0]LogSlate: Took 0.001548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.29-16.55.54:384][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.29-16.55.54:384][  0]LogLoad: (Engine Initialization) Total time: 27.29 seconds
+[2019.03.29-16.55.54:384][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.29-16.55.54:450][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.29-16.55.54:605][  2]LogAssetRegistry: Asset discovery search completed in 17.5373 seconds
+[2019.03.29-16.55.54:607][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.29-16.55.54:607][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2019.03.29-16.55.55:917][  6]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.29-16.55.58:295][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.55.58:588][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-16.55.58:603][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.55.58:604][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-16.55.58:605][ 14]PIE: New page: PIE session: TIR (29 марта 2019 г., 22:55:58)
+[2019.03.29-16.55.58:618][ 14]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-16.55.58:626][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007238s)
+[2019.03.29-16.55.58:627][ 14]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-16.55.58:627][ 14]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.03.29-16.55.58:627][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.008444s)
+[2019.03.29-16.55.58:761][ 14]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-16.55.58:782][ 14]LogInit: FAudioDevice initialized.
+[2019.03.29-16.55.58:838][ 14]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-16.55.58:850][ 14]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-19.55.58
+[2019.03.29-16.55.58:851][ 14]LogWorld: Bringing up level for play took: 0.010307
+[2019.03.29-16.55.58:879][ 14]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.03.29-16.55.58:890][ 14]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,665
+[2019.03.29-16.55.58:891][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.56.30:376][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.56.30:377][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.56.30:446][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-16.56.30:447][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.56.30:477][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.56.30:500][438]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.29-16.56.33:059][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-16.56.33:187][647]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-16.56.33:198][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.56.33:198][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-16.56.33:198][647]PIE: New page: PIE session: TIR (29 марта 2019 г., 22:56:33)
+[2019.03.29-16.56.33:198][647]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-16.56.33:205][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006879s)
+[2019.03.29-16.56.33:206][647]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-16.56.33:206][647]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2019.03.29-16.56.33:206][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.008014s)
+[2019.03.29-16.56.33:331][647]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-16.56.33:350][647]LogInit: FAudioDevice initialized.
+[2019.03.29-16.56.33:382][647]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-16.56.33:388][647]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-19.56.33
+[2019.03.29-16.56.33:389][647]LogWorld: Bringing up level for play took: 0.005513
+[2019.03.29-16.56.33:405][647]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 1,18
+[2019.03.29-16.56.33:405][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.57.17:482][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.57.17:483][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.57.17:553][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-16.57.17:553][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-16.57.17:579][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-16.57.17:589][592]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.03.29-17.53.02:981][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-17.53.02:992][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-17.53.02:992][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-17.53.02:992][ 32]PIE: New page: PIE session: TIR (29 марта 2019 г., 23:53:02)
+[2019.03.29-17.53.02:992][ 32]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-17.53.03:000][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007274s)
+[2019.03.29-17.53.03:000][ 32]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-17.53.03:000][ 32]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.03.29-17.53.03:001][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.008302s)
+[2019.03.29-17.53.03:125][ 32]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-17.53.03:144][ 32]LogInit: FAudioDevice initialized.
+[2019.03.29-17.53.03:173][ 32]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-17.53.03:179][ 32]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-20.53.03
+[2019.03.29-17.53.03:179][ 32]LogWorld: Bringing up level for play took: 0.005485
+[2019.03.29-17.53.03:196][ 32]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,971
+[2019.03.29-17.53.03:196][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-17.54.00:174][411]Cmd: LevelEditor.ToggleImmersive
+[2019.03.29-17.54.00:351][412]LogRenderer: Reallocating scene render targets to support 1988x904 Format 10 NumSamples 1 (Frame:3381).
+[2019.03.29-17.54.00:464][413]LogRenderer: Reallocating scene render targets to support 1988x1040 Format 10 NumSamples 1 (Frame:3383).
+[2019.03.29-17.54.00:466][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-18.30.35:494][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.30.42:055][875]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.30.42:055][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.30.42:139][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.30.42:140][875]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.30.42:167][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.30.42:193][876]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.03.29-18.30.47:961][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.30.47:973][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.30.47:973][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.30.47:973][554]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:30:47)
+[2019.03.29-18.30.47:973][554]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.30.47:981][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007925s)
+[2019.03.29-18.30.47:981][554]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.30.47:982][554]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.03.29-18.30.47:982][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.008871s)
+[2019.03.29-18.30.48:112][554]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.30.48:132][554]LogInit: FAudioDevice initialized.
+[2019.03.29-18.30.48:133][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-18.30.48:171][554]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.30.48:177][554]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.30.48
+[2019.03.29-18.30.48:177][554]LogWorld: Bringing up level for play took: 0.005977
+[2019.03.29-18.30.48:194][554]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,031
+[2019.03.29-18.30.48:194][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.30.52:836][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.30.52:836][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.30.52:887][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.30.52:887][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.30.52:913][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.30.52:933][  0]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.03.29-18.30.57:800][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-18.31.03:015][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.31.28:199][414]LogEditorViewport: Clicking on Actor (LMB): SceneCapture2D (SceneCapture2D1)
+[2019.03.29-18.31.30:204][600]LogSlate: Took 0.001845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.29-18.31.30:484][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.32.45:330][410]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VR_Pawn.VR_Pawn
+[2019.03.29-18.32.45:939][410]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.03.29-18.32.47:050][410]LogSlate: Took 0.001600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.29-18.34.15:346][ 72]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (CamMesh0)
+[2019.03.29-18.34.20:263][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.35.13:874][788]LogSlate: Window 'VR_Pawn' being destroyed
+[2019.03.29-18.35.37:036][ 77]LogAssetEditorManager: Opening Asset editor for Material /Game/Gun/Materials/Display.Display
+[2019.03.29-18.35.37:042][ 77]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.35.37:494][ 77]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.35.37:531][ 77]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.35.37:598][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.29-18.35.37:607][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.03.29-18.35.37:615][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.03.29-18.35.37:621][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.03.29-18.35.37:628][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.03.29-18.35.37:635][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.29-18.35.37:641][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.03.29-18.35.41:774][325]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.35.43:450][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.36.00:341][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.36.15:110][519]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.36.20:452][857]LogMaterialEditor: Applying material Display
+[2019.03.29-18.36.20:962][857]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.36.21:055][857]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.36.21:100][857]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.36.21:185][857]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-18.37.34:761][857]TextureStreamingBuild: Display: Compiling optional shaders took 73.583 seconds.
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: Texture samplers: 7/16
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.03.29-18.37.34:848][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-18.37.34:934][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TIR' took 0.030
+[2019.03.29-18.37.35:157][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/Materials/Display] ([1] browsable assets)...
+[2019.03.29-18.37.35:174][858]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gun/Materials/Display.Display]
+[2019.03.29-18.37.35:174][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/Materials/Display]
+[2019.03.29-18.37.35:174][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-18.37.35:812][858]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Display_Auto1BA0E58B04561F3FAE93E62AFD3BB21B4.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto1.uasset'
+[2019.03.29-18.37.35:834][858]LogFileHelpers: Auto-saving content packages took 0.899
+[2019.03.29-18.37.54:396][160]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (19.531 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-18.38.01:774][593]LogSlate: Window 'Display*' being destroyed
+[2019.03.29-18.38.05:771][994]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.38.05:785][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.38.05:786][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.38.05:786][994]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:38:05)
+[2019.03.29-18.38.05:786][994]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.38.05:793][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007391s)
+[2019.03.29-18.38.05:794][994]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.38.05:794][994]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2019.03.29-18.38.05:794][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.008509s)
+[2019.03.29-18.38.05:925][994]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.38.05:945][994]LogInit: FAudioDevice initialized.
+[2019.03.29-18.38.05:981][994]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.38.05:987][994]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.38.05
+[2019.03.29-18.38.05:987][994]LogWorld: Bringing up level for play took: 0.005764
+[2019.03.29-18.38.06:004][994]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,221
+[2019.03.29-18.38.06:004][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.38.26:829][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.38.26:830][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.38.26:912][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.38.26:912][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.38.26:947][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.38.26:976][177]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.29-18.38.28:192][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.39.36:999][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.39.53:455][581]LogActorFactory: Actor Factory created Floor
+[2019.03.29-18.39.56:020][757]LogActorFactory: Actor Factory created Floor
+[2019.03.29-18.40.44:462][370]Cmd: SELECT NONE
+[2019.03.29-18.40.45:003][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.03.29-18.40.52:545][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-18.41.10:318][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.03.29-18.41.10:414][  7]Cmd: SELECT NONE
+[2019.03.29-18.41.10:647][ 28]Cmd: SELECT NONE
+[2019.03.29-18.41.11:152][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.03.29-18.41.17:504][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.03.29-18.41.17:574][611]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.29-18.41.17:842][630]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.29-18.41.29:195][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.41.29:433][764]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/Floor.Floor
+[2019.03.29-18.41.43:181][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.41.55:905][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.42.08:189][940]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Floor.Floor
+[2019.03.29-18.42.08:192][940]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.42.08:294][940]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.42.08:316][940]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.42.08:367][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.29-18.42.20:891][430]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.03.29-18.42.20:891][430]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.03.29-18.42.20:891][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.03.29-18.42.20:891][430]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.29-18.42.20:892][430]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.29-18.43.55:387][474]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.43.55:409][474]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.29-18.44.02:218][283]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.44.02:247][283]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.29-18.44.03:928][481]LogMaterialEditor: Applying material Floor
+[2019.03.29-18.44.04:349][481]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.44.04:436][481]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.44.04:466][481]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.44.04:528][481]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Floor, compiling. 
+[2019.03.29-18.44.37:943][481]TextureStreamingBuild: Display: Compiling optional shaders took 33.421 seconds.
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.03.29-18.44.38:003][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-18.45.03:626][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.45.03:710][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.45.03:725][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.45.03:725][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.45.03:725][400]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:45:03)
+[2019.03.29-18.45.03:726][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.45.03:733][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007026s)
+[2019.03.29-18.45.03:733][400]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.45.03:733][400]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.03.29-18.45.03:733][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007877s)
+[2019.03.29-18.45.03:867][400]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.45.03:885][400]LogInit: FAudioDevice initialized.
+[2019.03.29-18.45.03:915][400]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.45.03:921][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.45.03
+[2019.03.29-18.45.03:922][400]LogWorld: Bringing up level for play took: 0.005566
+[2019.03.29-18.45.03:937][400]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,287
+[2019.03.29-18.45.03:937][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.45.10:384][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.45.10:385][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.45.10:440][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.45.10:441][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.45.10:474][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.45.10:503][854]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.29-18.45.11:716][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.45.31:677][288]LogEditorViewport: Clicking on Actor (LMB): SceneCapture2D (SceneCapture2D1)
+[2019.03.29-18.45.33:966][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.46.46:682][572]BlueprintLog: New page: Compile VR_Pawn
+[2019.03.29-18.46.50:729][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.46.50:853][955]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.46.50:867][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.46.50:868][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.46.50:868][955]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:46:50)
+[2019.03.29-18.46.50:868][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.46.50:875][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006948s)
+[2019.03.29-18.46.50:875][955]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.46.50:876][955]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2019.03.29-18.46.50:876][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007899s)
+[2019.03.29-18.46.51:005][955]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.46.51:024][955]LogInit: FAudioDevice initialized.
+[2019.03.29-18.46.51:056][955]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.46.51:062][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.46.51
+[2019.03.29-18.46.51:063][955]LogWorld: Bringing up level for play took: 0.005563
+[2019.03.29-18.46.51:079][955]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,854
+[2019.03.29-18.46.51:079][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.47.19:975][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.47.19:975][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.47.20:044][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.47.20:045][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.47.20:078][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.47.20:090][421]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.29-18.47.42:082][754]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.47.49:685][590]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.47.52:019][832]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.47.52:058][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.03.29-18.47.55:842][244]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.47.59:448][626]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.48.02:622][980]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.48.06:575][423]LogMaterialEditor: Applying material Display
+[2019.03.29-18.48.06:993][423]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.48.07:079][423]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.48.07:119][423]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.48.07:194][423]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-18.50.00:349][423]TextureStreamingBuild: Display: Compiling optional shaders took 113.161 seconds.
+[2019.03.29-18.50.00:412][424]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: Base pass shader: 126 instructions
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-18.50.00:413][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-18.50.10:486][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TIR" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Levels/TIR_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.29-18.50.10:725][585]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/TIR_Auto222D59FF041FB7D2457E98F8541AC20B0.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Levels/TIR_Auto2.umap'
+[2019.03.29-18.50.10:728][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TIR' took 0.293
+[2019.03.29-18.50.10:728][585]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.293
+[2019.03.29-18.50.10:730][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/VR_Pawn] ([1] browsable assets)...
+[2019.03.29-18.50.10:752][585]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/VR_Pawn.VR_Pawn]
+[2019.03.29-18.50.10:752][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/VR_Pawn]
+[2019.03.29-18.50.10:752][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VR_Pawn" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/VR_Pawn_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-18.50.10:788][585]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/VR_Pawn_Auto29A13839E4B9B8C6A6825FB862BCBCE41.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/VR_Pawn_Auto2.uasset'
+[2019.03.29-18.50.10:802][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/Materials/Display] ([1] browsable assets)...
+[2019.03.29-18.50.10:817][585]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gun/Materials/Display.Display]
+[2019.03.29-18.50.10:817][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/Materials/Display]
+[2019.03.29-18.50.10:817][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-18.50.10:844][585]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Display_Auto27584BAC24DE037CFACD38190D18B7230.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto2.uasset'
+[2019.03.29-18.50.10:845][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Floor] ([1] browsable assets)...
+[2019.03.29-18.50.10:861][585]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Floor.Floor]
+[2019.03.29-18.50.10:861][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Floor]
+[2019.03.29-18.50.10:861][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Floor" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Materials/Floor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-18.50.10:882][585]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Floor_Auto2BFC5A242484FF4F0C0FEDBAE4C3AA7E0.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Materials/Floor_Auto2.uasset'
+[2019.03.29-18.50.10:899][585]LogFileHelpers: Auto-saving content packages took 0.169
+[2019.03.29-18.50.11:069][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.50.11:191][612]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.50.11:205][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.50.11:205][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.50.11:205][612]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:50:11)
+[2019.03.29-18.50.11:205][612]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.50.11:212][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006685s)
+[2019.03.29-18.50.11:213][612]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.50.11:213][612]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2019.03.29-18.50.11:213][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007626s)
+[2019.03.29-18.50.11:341][612]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.50.11:360][612]LogInit: FAudioDevice initialized.
+[2019.03.29-18.50.11:392][612]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.50.11:398][612]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.50.11
+[2019.03.29-18.50.11:398][612]LogWorld: Bringing up level for play took: 0.005436
+[2019.03.29-18.50.11:415][612]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 1,19
+[2019.03.29-18.50.11:415][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.50.29:670][662]LogSlate: Took 0.004037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.03.29-18.50.30:456][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.50.30:456][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.50.30:529][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.50.30:530][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.50.30:564][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.50.30:591][694]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.29-18.50.54:395][213]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.983 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-18.50.58:611][538]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.50.58:625][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.50.58:625][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.50.58:625][538]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:50:58)
+[2019.03.29-18.50.58:626][538]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.50.58:633][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006895s)
+[2019.03.29-18.50.58:633][538]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.50.58:633][538]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2019.03.29-18.50.58:633][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007820s)
+[2019.03.29-18.50.58:768][538]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.50.58:787][538]LogInit: FAudioDevice initialized.
+[2019.03.29-18.50.58:820][538]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.50.58:826][538]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.50.58
+[2019.03.29-18.50.58:827][538]LogWorld: Bringing up level for play took: 0.005564
+[2019.03.29-18.50.58:843][538]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,617
+[2019.03.29-18.50.58:843][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.51.21:684][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.51.21:685][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.51.21:764][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.51.21:764][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.51.21:798][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.51.21:810][406]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.29-18.51.26:694][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.51.53:031][972]BlueprintLog: New page: Compile VR_Pawn
+[2019.03.29-18.52.02:034][826]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.52.02:048][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.52.02:048][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.52.02:048][826]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:52:02)
+[2019.03.29-18.52.02:048][826]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.52.02:055][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006849s)
+[2019.03.29-18.52.02:056][826]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.52.02:056][826]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2019.03.29-18.52.02:056][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007740s)
+[2019.03.29-18.52.02:189][826]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.52.02:208][826]LogInit: FAudioDevice initialized.
+[2019.03.29-18.52.02:239][826]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.52.02:245][826]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.52.02
+[2019.03.29-18.52.02:245][826]LogWorld: Bringing up level for play took: 0.005486
+[2019.03.29-18.52.02:262][826]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,037
+[2019.03.29-18.52.02:262][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.52.17:943][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.52.17:943][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.52.18:019][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.52.18:020][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.52.18:053][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.52.18:064][803]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.29-18.52.44:567][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.03.29-18.52.45:768][568]Cmd: DELETE
+[2019.03.29-18.52.45:768][568]Cmd: ACTOR DELETE
+[2019.03.29-18.52.45:777][568]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.29-18.52.45:808][568]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.03.29-18.52.57:541][924]LogEditorViewport: Clicking on Actor (LMB): Light_BP_C (Light_BP)
+[2019.03.29-18.53.04:074][611]Cmd: SELECT NONE
+[2019.03.29-18.53.06:700][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.53.06:833][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TIR" FILE="D:/REP/UE4/VR/TIR/Content/Levels/TIR.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.29-18.53.07:088][857]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/TIRB0AC0A3244694F0D573C7494A06EA6F3.tmp' to 'D:/REP/UE4/VR/TIR/Content/Levels/TIR.umap'
+[2019.03.29-18.53.07:112][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TIR_BuiltData" FILE="D:/REP/UE4/VR/TIR/Content/Levels/TIR_BuiltData.uasset" SILENT=true
+[2019.03.29-18.53.07:139][857]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/TIR_BuiltData510B24024CD55F10A76838B6BDB54789.tmp' to 'D:/REP/UE4/VR/TIR/Content/Levels/TIR_BuiltData.uasset'
+[2019.03.29-18.53.32:681][720]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.53.34:978][986]LogMaterialEditor: Applying material Floor
+[2019.03.29-18.53.35:391][986]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.53.35:473][986]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.53.35:497][986]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-18.53.35:557][986]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Floor, compiling. 
+[2019.03.29-18.54.01:889][986]TextureStreamingBuild: Display: Compiling optional shaders took 26.338 seconds.
+[2019.03.29-18.54.01:949][987]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.03.29-18.54.01:949][987]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.03.29-18.54.01:950][987]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.03.29-18.54.01:950][987]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.29-18.54.01:950][987]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.29-18.54.13:856][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.54.13:960][297]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.54.13:974][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.54.13:974][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.54.13:974][297]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:54:13)
+[2019.03.29-18.54.13:974][297]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.54.13:981][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006872s)
+[2019.03.29-18.54.13:982][297]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.54.13:982][297]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.03.29-18.54.13:982][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007833s)
+[2019.03.29-18.54.14:107][297]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.54.14:125][297]LogInit: FAudioDevice initialized.
+[2019.03.29-18.54.14:156][297]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.54.14:162][297]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.54.14
+[2019.03.29-18.54.14:163][297]LogWorld: Bringing up level for play took: 0.005556
+[2019.03.29-18.54.14:179][297]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,047
+[2019.03.29-18.54.14:179][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.54.54:398][137]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.449 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-18.55.16:700][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.55.16:700][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.55.16:781][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.55.16:782][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.55.16:816][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.55.16:844][935]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.29-18.55.18:311][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.56.01:749][210]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.56.04:545][530]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.56.06:903][790]LogMaterialEditor: Applying material Display
+[2019.03.29-18.56.07:318][790]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.56.07:403][790]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.56.07:442][790]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.56.07:518][790]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-18.57.12:356][790]TextureStreamingBuild: Display: Compiling optional shaders took 64.846 seconds.
+[2019.03.29-18.57.12:418][791]MaterialEditorStats: Base pass shader: 125 instructions
+[2019.03.29-18.57.12:419][791]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2019.03.29-18.57.12:419][791]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-18.57.12:419][791]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-18.57.12:419][791]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-18.57.12:419][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-18.57.12:419][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-18.57.17:507][328]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-18.57.17:521][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.57.17:521][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-18.57.17:521][328]PIE: New page: PIE session: TIR (30 марта 2019 г., 0:57:17)
+[2019.03.29-18.57.17:521][328]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-18.57.17:529][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007182s)
+[2019.03.29-18.57.17:529][328]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-18.57.17:529][328]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.03.29-18.57.17:530][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.008160s)
+[2019.03.29-18.57.17:661][328]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-18.57.17:680][328]LogInit: FAudioDevice initialized.
+[2019.03.29-18.57.17:714][328]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-18.57.17:720][328]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-21.57.17
+[2019.03.29-18.57.17:720][328]LogWorld: Bringing up level for play took: 0.005474
+[2019.03.29-18.57.17:736][328]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,489
+[2019.03.29-18.57.17:736][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.57.54:393][126]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.975 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-18.58.09:245][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.58.09:245][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.58.09:337][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-18.58.09:338][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-18.58.09:372][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-18.58.09:398][540]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.29-18.58.11:173][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-18.58.15:314][165]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.17:035][360]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.23:898][129]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.29:235][742]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.35:608][465]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.41:662][182]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.41:698][182]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.44:535][501]LogMaterialEditor: Applying material Display
+[2019.03.29-18.58.44:954][501]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.45:040][501]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.45:078][501]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-18.58.45:153][501]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-19.00.33:388][501]TextureStreamingBuild: Display: Compiling optional shaders took 108.243 seconds.
+[2019.03.29-19.00.33:446][502]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: Base pass shader: 126 instructions
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-19.00.33:478][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-19.00.54:396][  8]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.949 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.01.01:578][822]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-19.01.01:592][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.01.01:593][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-19.01.01:593][822]PIE: New page: PIE session: TIR (30 марта 2019 г., 1:01:01)
+[2019.03.29-19.01.01:593][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-19.01.01:600][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006734s)
+[2019.03.29-19.01.01:600][822]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-19.01.01:600][822]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.03.29-19.01.01:601][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.007686s)
+[2019.03.29-19.01.01:735][822]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-19.01.01:754][822]LogInit: FAudioDevice initialized.
+[2019.03.29-19.01.01:786][822]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-19.01.01:792][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-22.01.01
+[2019.03.29-19.01.01:792][822]LogWorld: Bringing up level for play took: 0.005317
+[2019.03.29-19.01.01:808][822]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,418
+[2019.03.29-19.01.01:808][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.02.38:563][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.02.38:563][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.02.38:622][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-19.02.38:623][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.02.38:657][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.02.38:683][360]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.29-19.03.04:629][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-19.03.15:244][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Generator.Generator
+[2019.03.29-19.03.33:447][120]BlueprintLog: New page: Compile Generator
+[2019.03.29-19.03.38:681][689]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-19.03.38:701][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.03.38:701][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-19.03.38:701][689]PIE: New page: PIE session: TIR (30 марта 2019 г., 1:03:38)
+[2019.03.29-19.03.38:701][689]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-19.03.38:705][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004005s)
+[2019.03.29-19.03.38:707][689]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-19.03.38:707][689]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2019.03.29-19.03.38:707][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.004893s)
+[2019.03.29-19.03.38:841][689]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-19.03.38:861][689]LogInit: FAudioDevice initialized.
+[2019.03.29-19.03.38:891][689]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-19.03.38:894][689]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-22.03.38
+[2019.03.29-19.03.38:894][689]LogWorld: Bringing up level for play took: 0.001774
+[2019.03.29-19.03.38:908][689]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,683
+[2019.03.29-19.03.38:909][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.03.56:290][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.03.56:290][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.03.56:331][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-19.03.56:332][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.03.56:366][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.03.56:393][776]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.29-19.06.35:255][ 40]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.06.56:681][574]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.06.56:717][574]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.03.29-19.06.58:576][784]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.02:489][224]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.14:421][610]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.18:005][ 27]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.21:272][409]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.29:784][413]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.29:821][413]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.03.29-19.07.32:437][715]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.33:619][845]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.46:452][372]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.48:685][633]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.50:553][848]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.55:093][378]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.55:132][378]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.58:094][727]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.07.58:131][727]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.08.06:275][688]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.08.08:063][890]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.08.43:686][260]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.08.48:094][776]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.09.15:015][979]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.09.15:053][979]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.09.27:293][429]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.09.27:330][429]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.09.41:818][ 98]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.09.41:857][ 98]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.00:012][212]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.13:799][596]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.13:839][596]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.03.29-19.10.15:846][830]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.23:847][755]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.23:848][755]LogMaterial: Warning: /Engine/Transient.Display (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.29-19.10.23:848][755]LogMaterial: 	(Node If) If input A must be of type float.
+[2019.03.29-19.10.23:851][755]MaterialEditorStats: Error: [SM5] (Node If) If input A must be of type float.
+[2019.03.29-19.10.51:496][  4]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.51:497][  4]LogMaterial: Warning: /Engine/Transient.Display (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.29-19.10.51:497][  4]LogMaterial: 	(Node If) If input A must be of type float.
+[2019.03.29-19.10.54:975][411]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.10.54:976][411]LogMaterial: Warning: /Engine/Transient.Display (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.29-19.10.54:976][411]LogMaterial: 	(Node If) If input A must be of type float.
+[2019.03.29-19.11.07:977][957]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.03.29-19.11.17:854][121]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.11.17:891][121]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.11.49:286][846]LogMaterialEditor: Applying material Display
+[2019.03.29-19.11.49:704][846]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.11.49:786][846]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.11.49:823][846]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.11.49:903][846]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-19.15.11:867][846]TextureStreamingBuild: Display: Compiling optional shaders took 201.971 seconds.
+[2019.03.29-19.15.11:936][847]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.15.11:936][847]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.15.11:936][847]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-19.15.12:333][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-19.15.15:054][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TIR" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Levels/TIR_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.29-19.15.15:262][858]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/TIR_Auto3610939D54156C7C004E522A935DDE57A.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Levels/TIR_Auto3.umap'
+[2019.03.29-19.15.15:265][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TIR' took 0.251
+[2019.03.29-19.15.15:265][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
+[2019.03.29-19.15.15:266][858]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Generator] ([1] browsable assets)...
+[2019.03.29-19.15.15:266][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Generator]
+[2019.03.29-19.15.15:266][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generator" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/Generator_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-19.15.15:297][858]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Generator_Auto310CE17CC49EC301FD7D10E8A31A9EECC.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/Generator_Auto3.uasset'
+[2019.03.29-19.15.15:353][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/VR_Pawn] ([1] browsable assets)...
+[2019.03.29-19.15.15:384][858]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/VR_Pawn.VR_Pawn]
+[2019.03.29-19.15.15:384][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/VR_Pawn]
+[2019.03.29-19.15.15:385][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VR_Pawn" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/VR_Pawn_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-19.15.15:420][858]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/VR_Pawn_Auto3ED49497A4E07B5849389F7AEFF0DA1AB.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/VR_Pawn_Auto3.uasset'
+[2019.03.29-19.15.15:422][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/Materials/Display] ([1] browsable assets)...
+[2019.03.29-19.15.15:438][858]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gun/Materials/Display.Display]
+[2019.03.29-19.15.15:438][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/Materials/Display]
+[2019.03.29-19.15.15:438][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-19.15.15:468][858]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Display_Auto3B45275E941D181BA82E29A890B485CDA.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto3.uasset'
+[2019.03.29-19.15.15:684][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Floor] ([1] browsable assets)...
+[2019.03.29-19.15.15:699][858]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Floor.Floor]
+[2019.03.29-19.15.15:699][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Floor]
+[2019.03.29-19.15.15:699][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Floor" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Materials/Floor_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-19.15.15:720][858]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Floor_Auto33C66359643648551F8C3818BAB37A331.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Materials/Floor_Auto3.uasset'
+[2019.03.29-19.15.15:721][858]LogFileHelpers: Auto-saving content packages took 0.456
+[2019.03.29-19.15.54:410][975]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.474 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.17.17:445][282]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.17.17:482][282]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.17.18:939][440]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.17.29:816][301]LogMaterialEditor: Saving and Compiling material Display
+[2019.03.29-19.17.30:245][301]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.17.30:334][301]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.17.30:373][301]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.17.30:451][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-19.18.50:290][301]TextureStreamingBuild: Display: Compiling optional shaders took 79.846 seconds.
+[2019.03.29-19.18.50:394][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Content/Gun/Materials/Display.uasset" SILENT=true
+[2019.03.29-19.18.50:424][301]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Display937B6E1A42E052A6E743A9BC5DD8CD7B.tmp' to 'D:/REP/UE4/VR/TIR/Content/Gun/Materials/Display.uasset'
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-19.18.50:441][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-19.18.54:475][314]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (4.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-19.24.24:658][691]LogAssetEditorManager: Opening Asset editor for MaterialParameterCollection /Game/Blueprints/Ammo.Ammo
+[2019.03.29-19.24.49:468][661]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.24.49:504][661]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.29-19.25.03:082][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ammo" FILE="D:/REP/UE4/VR/TIR/Content/Blueprints/Ammo.uasset" SILENT=true
+[2019.03.29-19.25.03:085][279]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/AmmoDDD586B249809F31B0BAC591C9CAE909.tmp' to 'D:/REP/UE4/VR/TIR/Content/Blueprints/Ammo.uasset'
+[2019.03.29-19.25.21:889][491]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.25.21:925][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2019.03.29-19.25.28:950][311]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.25.31:197][557]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.25.31:198][557]LogMaterial: Warning: /Engine/Transient.Display (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.29-19.25.31:198][557]LogMaterial: 	(Node CollectionParameter) CollectionParameter has invalid parameter None
+[2019.03.29-19.25.31:198][557]LogMaterial: 	(Node If) If input B must be of type float.
+[2019.03.29-19.25.31:206][557]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2019.03.29-19.25.31:230][557]MaterialEditorStats: Error: [SM5] (Node CollectionParameter) CollectionParameter has invalid parameter None
+[2019.03.29-19.25.31:230][557]MaterialEditorStats: Error: [SM5] (Node If) If input B must be of type float.
+[2019.03.29-19.29.54:550][367]LogHttp: Warning: 000001E51B7D5E40: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B734A2F-4B0A-219E-7381-EF85EED9979C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=c31135894b27088a7ea8078dbc50c89b%7C36215cf25ab341f5843efea4ee46e978%7C482f138a-c5b8-4fdc-8dba-8d9025728d4c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.03.29-19.29.54:550][367]LogHttp: Warning: 000001E51B7D5E40 Response Header Server: awselb/2.0
+[2019.03.29-19.29.54:550][367]LogHttp: Warning: 000001E51B7D5E40 Response Header Date: Fri, 29 Mar 2019 19:29:55 GMT
+[2019.03.29-19.29.54:550][367]LogHttp: Warning: 000001E51B7D5E40 Response Header Content-Type: text/html
+[2019.03.29-19.29.54:550][367]LogHttp: Warning: 000001E51B7D5E40 Response Header Content-Length: 138
+[2019.03.29-19.29.54:550][367]LogHttp: Warning: 000001E51B7D5E40 Response Header Connection: keep-alive
+[2019.03.29-19.41.22:890][ 55]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.41.22:929][ 55]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2019.03.29-19.41.22:960][ 55]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.42.07:907][819]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.03.29-19.42.07:907][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.03.29-19.42.07:907][819]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-19.42.07:907][819]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-19.42.07:907][819]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-19.42.07:907][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-19.42.07:908][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-19.43.19:216][415]BlueprintLog: New page: Compile VR_Pawn
+[2019.03.29-19.44.51:788][446]BlueprintLog: New page: Compile VR_Pawn
+[2019.03.29-19.44.55:511][860]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-19.44.55:525][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.44.55:525][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-19.44.55:525][860]PIE: New page: PIE session: TIR (30 марта 2019 г., 1:44:55)
+[2019.03.29-19.44.55:525][860]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-19.44.55:529][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003961s)
+[2019.03.29-19.44.55:530][860]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-19.44.55:530][860]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2019.03.29-19.44.55:530][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.004986s)
+[2019.03.29-19.44.55:669][860]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-19.44.55:691][860]LogInit: FAudioDevice initialized.
+[2019.03.29-19.44.55:726][860]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-19.44.55:728][860]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-22.44.55
+[2019.03.29-19.44.55:729][860]LogWorld: Bringing up level for play took: 0.001794
+[2019.03.29-19.44.55:743][860]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,482
+[2019.03.29-19.44.55:744][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.45.08:816][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.45.08:817][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.45.08:861][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-19.45.08:861][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.45.08:898][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.45.08:919][422]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.29-19.45.20:302][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-19.45.58:745][653]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.45.58:788][653]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.03.29-19.46.02:163][ 47]LogMaterialEditor: Applying material Display
+[2019.03.29-19.46.02:584][ 47]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.46.02:671][ 47]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.46.02:711][ 47]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.46.02:789][ 47]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-19.46.56:456][ 47]TextureStreamingBuild: Display: Compiling optional shaders took 53.673 seconds.
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: Base pass shader: 126 instructions
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-19.46.56:857][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-19.46.59:599][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TIR' took 0.035
+[2019.03.29-19.46.59:601][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/VR_Pawn] ([1] browsable assets)...
+[2019.03.29-19.46.59:622][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/VR_Pawn.VR_Pawn]
+[2019.03.29-19.46.59:622][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/VR_Pawn]
+[2019.03.29-19.46.59:622][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VR_Pawn" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/VR_Pawn_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-19.46.59:672][ 57]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/VR_Pawn_Auto4B1D0967649B6E98E696BA38F9BD22128.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Blueprints/VR_Pawn_Auto4.uasset'
+[2019.03.29-19.46.59:693][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/Materials/Display] ([1] browsable assets)...
+[2019.03.29-19.46.59:711][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gun/Materials/Display.Display]
+[2019.03.29-19.46.59:711][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/Materials/Display]
+[2019.03.29-19.46.59:711][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-19.46.59:747][ 57]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Display_Auto470FDD2EB454D6C30DC3AFBA90B40D783.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto4.uasset'
+[2019.03.29-19.46.59:747][ 57]LogFileHelpers: Auto-saving content packages took 0.148
+[2019.03.29-19.48.15:857][525]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-19.48.15:872][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.48.15:872][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-19.48.15:872][525]PIE: New page: PIE session: TIR (30 марта 2019 г., 1:48:15)
+[2019.03.29-19.48.15:873][525]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-19.48.15:877][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004109s)
+[2019.03.29-19.48.15:878][525]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-19.48.15:878][525]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2019.03.29-19.48.15:878][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.005139s)
+[2019.03.29-19.48.16:013][525]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-19.48.16:034][525]LogInit: FAudioDevice initialized.
+[2019.03.29-19.48.16:066][525]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-19.48.16:068][525]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-22.48.16
+[2019.03.29-19.48.16:069][525]LogWorld: Bringing up level for play took: 0.002030
+[2019.03.29-19.48.16:083][525]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR -0,142
+[2019.03.29-19.48.16:084][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.48.29:279][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.48.29:279][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.48.29:316][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-19.48.29:316][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-19.48.29:351][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-19.48.29:378][108]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.03.29-19.57.52:207][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-19.58.37:983][360]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.38:019][360]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.38:763][443]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.38:800][443]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.42:900][905]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-19.58.42:908][905]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.48:174][518]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-19.58.48:183][518]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.48:220][518]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-19.58.48:229][518]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.50:166][742]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-19.58.50:175][742]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.58.50:212][742]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-19.58.50:221][742]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-19.59.48:960][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-19.59.53:821][182]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-19.59.53:830][182]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.01.33:508][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.01.45:411][327]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.01.45:420][327]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.02.09:213][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.02.42:720][169]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.02.42:728][169]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.02.51:529][207]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.02.51:537][207]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.02.54:584][548]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.02.54:593][548]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.02.59:337][108]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.02.59:346][108]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.02.59:381][108]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.02.59:389][108]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.03.00:445][229]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.03.00:454][229]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.04.16:568][495]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.04.16:577][495]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.04.16:615][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.03.29-20.04.21:066][  8]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.04.21:075][  8]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.04.23:157][241]LogMaterialEditor: Saving and Compiling material Display
+[2019.03.29-20.04.23:566][241]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.04.23:585][241]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.04.23:664][241]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.04.23:704][241]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.04.23:786][241]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-20.05.57:705][241]TextureStreamingBuild: Display: Compiling optional shaders took 93.926 seconds.
+[2019.03.29-20.05.57:841][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Content/Gun/Materials/Display.uasset" SILENT=true
+[2019.03.29-20.05.57:871][241]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/DisplayC985D352453993A7C5FBF5974F53229F.tmp' to 'D:/REP/UE4/VR/TIR/Content/Gun/Materials/Display.uasset'
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.05.57:888][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.05.57:903][242]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-20.12.42:885][101]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.12.42:894][101]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.12.42:931][101]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.12.42:940][101]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.13.08:009][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.13.10:517][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.13.17:005][136]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.13.17:014][136]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.13.17:050][136]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.13.17:059][136]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.13.31:895][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.13.31:904][897]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.13.31:939][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.13.31:948][897]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.14.24:851][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.14.36:824][553]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.14.36:833][553]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.14.36:870][553]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.14.36:878][553]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.15.24:324][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.17.52:049][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.18.13:823][517]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.18.13:832][517]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.18.13:868][517]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.18.13:878][517]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.18.25:675][911]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.18.25:684][911]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.18.26:981][ 61]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.18.26:990][ 61]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.19.40:181][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.22.27:422][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.22.30:905][740]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.22.30:913][740]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.22.30:950][740]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.22.30:959][740]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.23.19:376][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.23.44:703][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.23.46:236][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-20.23.46:252][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.23.46:252][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-20.23.46:253][352]PIE: New page: PIE session: TIR (30 марта 2019 г., 2:23:46)
+[2019.03.29-20.23.46:253][352]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-20.23.46:257][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004370s)
+[2019.03.29-20.23.46:258][352]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-20.23.46:258][352]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.03.29-20.23.46:258][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.005377s)
+[2019.03.29-20.23.46:391][352]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-20.23.46:411][352]LogInit: FAudioDevice initialized.
+[2019.03.29-20.23.46:443][352]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-20.23.46:446][352]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-23.23.46
+[2019.03.29-20.23.46:446][352]LogWorld: Bringing up level for play took: 0.002294
+[2019.03.29-20.23.46:461][352]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,235
+[2019.03.29-20.23.46:461][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.23.59:654][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.23.59:655][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.23.59:694][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-20.23.59:695][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.23.59:729][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.23.59:758][932]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.03.29-20.24.02:325][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.24.06:486][700]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.24.06:494][700]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.24.09:518][ 46]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.24.09:527][ 46]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.24.09:569][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2019.03.29-20.24.10:963][201]LogMaterialEditor: Applying material Display
+[2019.03.29-20.24.11:381][201]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.29-20.24.11:400][201]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.24.11:487][201]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.24.11:530][201]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2019.03.29-20.24.11:612][201]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Display, compiling. 
+[2019.03.29-20.25.25:253][201]TextureStreamingBuild: Display: Compiling optional shaders took 73.648 seconds.
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: Texture samplers: 9/16
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.03.29-20.25.25:360][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.29-20.25.28:369][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TIR' took 0.034
+[2019.03.29-20.25.28:370][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gun/Materials/Display] ([1] browsable assets)...
+[2019.03.29-20.25.28:401][554]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gun/Materials/Display.Display]
+[2019.03.29-20.25.28:401][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gun/Materials/Display]
+[2019.03.29-20.25.28:401][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Materials/Display" FILE="D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.03.29-20.25.28:435][554]LogSavePackage: Moving 'D:/REP/UE4/VR/TIR/Saved/Display_Auto51E564F49465BB58ECAE0499F8768C061.tmp' to 'D:/REP/UE4/VR/TIR/Saved/Autosaves/Game/Gun/Materials/Display_Auto5.uasset'
+[2019.03.29-20.25.28:448][554]LogFileHelpers: Auto-saving content packages took 0.079
+[2019.03.29-20.25.30:894][839]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-20.25.30:908][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.25.30:908][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-20.25.30:908][839]PIE: New page: PIE session: TIR (30 марта 2019 г., 2:25:30)
+[2019.03.29-20.25.30:908][839]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-20.25.30:912][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003954s)
+[2019.03.29-20.25.30:913][839]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-20.25.30:913][839]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.03.29-20.25.30:913][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.004861s)
+[2019.03.29-20.25.31:053][839]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-20.25.31:073][839]LogInit: FAudioDevice initialized.
+[2019.03.29-20.25.31:107][839]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-20.25.31:109][839]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-23.25.31
+[2019.03.29-20.25.31:110][839]LogWorld: Bringing up level for play took: 0.001690
+[2019.03.29-20.25.31:125][839]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,9
+[2019.03.29-20.25.31:125][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.25.43:852][361]Cmd: NextDebugTarget
+[2019.03.29-20.25.44:461][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.25.44:462][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.25.44:500][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-20.25.44:500][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.25.44:537][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.25.44:567][437]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.03.29-20.25.45:519][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.25.54:393][603]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (29.080 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.29-20.25.59:309][186]BlueprintLog: New page: Compile VR_Pawn
+[2019.03.29-20.26.08:223][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-20.26.08:238][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.26.08:238][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-20.26.08:238][221]PIE: New page: PIE session: TIR (30 марта 2019 г., 2:26:08)
+[2019.03.29-20.26.08:238][221]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-20.26.08:242][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004000s)
+[2019.03.29-20.26.08:243][221]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-20.26.08:243][221]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2019.03.29-20.26.08:243][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.004891s)
+[2019.03.29-20.26.08:384][221]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-20.26.08:403][221]LogInit: FAudioDevice initialized.
+[2019.03.29-20.26.08:434][221]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-20.26.08:437][221]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-23.26.08
+[2019.03.29-20.26.08:437][221]LogWorld: Bringing up level for play took: 0.001955
+[2019.03.29-20.26.08:451][221]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,226
+[2019.03.29-20.26.08:452][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.26.09:158][304]PIE: Warning: SetScalarParameterValue called on Ammo with invalid ParameterName 'None'. This is likely due to a Blueprint error.
+[2019.03.29-20.26.14:332][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.26.14:332][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.26.14:370][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-20.26.14:370][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.26.14:406][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.26.14:421][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.29-20.26.14:452][925]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.29-20.26.24:861][136]LogSlate: Window 'Message Log' being destroyed
+[2019.03.29-20.26.24:869][136]LogSlate: Window 'Message Log' being destroyed
+[2019.03.29-20.28.54:631][543]BlueprintLog: New page: Compile VR_Pawn
+[2019.03.29-20.28.56:518][737]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.29-20.28.56:532][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.28.56:532][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.29-20.28.56:532][737]PIE: New page: PIE session: TIR (30 марта 2019 г., 2:28:56)
+[2019.03.29-20.28.56:532][737]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TIR
+[2019.03.29-20.28.56:536][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003934s)
+[2019.03.29-20.28.56:537][737]LogAIModule: Creating AISystem for world TIR
+[2019.03.29-20.28.56:537][737]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.03.29-20.28.56:537][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TIR.TIR to /Game/Levels/UEDPIE_0_TIR.TIR (0.004979s)
+[2019.03.29-20.28.56:671][737]LogInit: XAudio2 using 'Headset (Sound Blaster Tactic(3D) Sigma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.29-20.28.56:690][737]LogInit: FAudioDevice initialized.
+[2019.03.29-20.28.56:719][737]LogLoad: Game class is 'VrGameMode_C'
+[2019.03.29-20.28.56:721][737]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TIR.TIR up for play (max tick rate 0) at 2019.03.29-23.28.56
+[2019.03.29-20.28.56:721][737]LogWorld: Bringing up level for play took: 0.001643
+[2019.03.29-20.28.56:736][737]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TIR 0,511
+[2019.03.29-20.28.56:737][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.29.10:435][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.29.10:436][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.29.10:479][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.29-20.29.10:479][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TIR.TIR:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TIR.TIR:PersistentLevel.TIR' with GeneratedClass '/Game/Levels/TIR.TIR_C' with ClassGeneratedBy '/Game/Levels/TIR.TIR:PersistentLevel.TIR'
+[2019.03.29-20.29.10:515][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.29-20.29.10:536][376]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.29-20.30.40:661][171]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.29-20.30.40:662][171]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.29-20.30.40:665][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.29-20.30.51:995][476]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.29-20.30.53:300][476]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.304 s
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: 
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 718]
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_1073'
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: Stack: 
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc1d7296e8 UE4Editor-InputCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc1d72d5e5 UE4Editor-InputCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc082c9b99 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc19a9dc35 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc19a90de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc19aa01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc19a8ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc48136d41 USER32.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc48136713 USER32.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc19aa1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ff766eb5546 UE4Editor.exe!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ff766ec596c UE4Editor.exe!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ff766ec59ea UE4Editor.exe!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ff766ed48da UE4Editor.exe!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ff766ed659a UE4Editor.exe!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc48663dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: [Callstack] 0x00007ffc49c93691 ntdll.dll!UnknownFunction []
+[2019.03.29-20.30.53:301][476]LogOutputDevice: Error: 
+[2019.03.29-20.30.53:312][476]LogStats:                SubmitErrorReport -  0.000 s

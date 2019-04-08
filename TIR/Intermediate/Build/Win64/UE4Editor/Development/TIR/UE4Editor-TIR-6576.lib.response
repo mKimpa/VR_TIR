@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TIR-6576.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\TIR.cpp.obj"
+"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\HighScoreSave.cpp.obj"
+"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\HighScoreSave.gen.cpp.obj"
+"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\TIR.init.gen.cpp.obj"
+"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\PCLaunch.rc.res"
+/OUT:"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\UE4Editor-TIR-6576.lib"
