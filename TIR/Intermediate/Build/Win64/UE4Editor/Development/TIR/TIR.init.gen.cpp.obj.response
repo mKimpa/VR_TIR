@@ -24,7 +24,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\REP\UE4\VR\TIR\Source\TIR\Private
+/I C:\REP\UE4\VR_TIR\TIR\Source\TIR\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -413,19 +413,27 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Inc\TIR
-/I D:\REP\UE4\VR\TIR\Source
-/I D:\REP\UE4\VR\TIR\Source\TIR\Public
-/I D:\REP\UE4\VR\TIR\Source\TIR
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UMGEditor
+/I Editor\UMGEditor\Classes
+/I Editor\UMGEditor\Public
+/I Editor\UMGEditor
+/I Editor\UMGEditor\Public\Settings
+/I C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Inc\TIR
+/I C:\REP\UE4\VR_TIR\TIR\Source
+/I C:\REP\UE4\VR_TIR\TIR\Source\TIR\Public
+/I C:\REP\UE4\VR_TIR\TIR\Source\TIR
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Inc\TIR\TIR.init.gen.cpp"
-/FI"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\Definitions.h"
-/Fo"D:\REP\UE4\VR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\TIR.init.gen.cpp.obj"
+/FI"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\TIREditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\TIREditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\TIREditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Inc\TIR\TIR.init.gen.cpp"
+/FI"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\Definitions.TIR.h"
+/Fo"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\TIR.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

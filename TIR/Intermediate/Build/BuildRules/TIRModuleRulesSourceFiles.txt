@@ -1,3 +1,3 @@
-D:\REP\UE4\VR\TIR\Source\TIR\TIR.Build.cs
-D:\REP\UE4\VR\TIR\Source\TIR.Target.cs
-D:\REP\UE4\VR\TIR\Source\TIREditor.Target.cs
+C:\REP\UE4\VR_TIR\TIR\Source\TIR\TIR.Build.cs
+C:\REP\UE4\VR_TIR\TIR\Source\TIR.Target.cs
+C:\REP\UE4\VR_TIR\TIR\Source\TIREditor.Target.cs

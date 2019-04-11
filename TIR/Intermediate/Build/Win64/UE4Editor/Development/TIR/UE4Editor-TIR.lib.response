@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TIR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\TIREditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\TIR.cpp.obj"
+"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\PCLaunch.rc.res"
+/OUT:"C:\REP\UE4\VR_TIR\TIR\Intermediate\Build\Win64\UE4Editor\Development\TIR\UE4Editor-TIR.lib"
